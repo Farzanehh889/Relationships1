@@ -1,675 +1,659 @@
-Source,Impact,Target,RelType
-Electric Vehicles,negative,Greenhouse Gas Emissions,NEGATIVE_IMPACT
-Electric Vehicles,negative,Fossil Fuel Dependency,NEGATIVE_IMPACT
-Electric Vehicles,positive,Public Health,POSITIVE_IMPACT
-Electric Vehicles,positive,Air Quality,POSITIVE_IMPACT
-Electric Vehicles,positive,Electricity Demand,POSITIVE_IMPACT
-Electric Vehicles,positive,Charging Infrastructure,POSITIVE_IMPACT
-Electric Vehicles,positive,Energy Efficiency,POSITIVE_IMPACT
-Electric Vehicles,negative,Urban Noise,NEGATIVE_IMPACT
-Electric Vehicles,negative,Carbon Emissions,NEGATIVE_IMPACT
-Electric Vehicles,negative,Peak Load on Grid,NEGATIVE_IMPACT
-Electric Vehicles,positive,Grid Flexibility,POSITIVE_IMPACT
-Electric Vehicles,negative,Infrastructure Costs,NEGATIVE_IMPACT
-Electric Vehicles,positive,Industrial Sector Impact,POSITIVE_IMPACT
-Electric Vehicles,positive,Energy Transition,POSITIVE_IMPACT
-Electric Vehicles,positive,Public Transport Integration,POSITIVE_IMPACT
-Electric Vehicles,positive,Smart Grid Integration,POSITIVE_IMPACT
-Electric Vehicles,positive,Charging Point Availability,POSITIVE_IMPACT
-Electric Vehicles,negative,Congestion (Charging Times),NEGATIVE_IMPACT
-Electric Vehicles,negative,Noise Pollution,NEGATIVE_IMPACT
-Electric Vehicles,negative,Battery Recycling/Waste Management,NEGATIVE_IMPACT
-Cost,negative,Electric Vehicles,NEGATIVE_IMPACT
-Range (Battery Capacity),positive,Electric Vehicles,POSITIVE_IMPACT
-Charging Infrastructure Availability,positive,Electric Vehicles,POSITIVE_IMPACT
-Battery Technology,positive,Electric Vehicles,POSITIVE_IMPACT
-Government Policies and Incentives,positive,Electric Vehicles,POSITIVE_IMPACT
-Environmental Impact Awareness,positive,Electric Vehicles,POSITIVE_IMPACT
-Smart Grid Integration,positive,Electric Vehicles,POSITIVE_IMPACT
-Electricity Availability,positive,Electric Vehicles,POSITIVE_IMPACT
-Land Availability for Chargers,positive,Electric Vehicles,POSITIVE_IMPACT
-Financial Models,positive,Electric Vehicles,POSITIVE_IMPACT
-Infrastructure Delivery Plans,positive,Electric Vehicles,POSITIVE_IMPACT
-Technological Advancements,positive,Electric Vehicles,POSITIVE_IMPACT
-Artificial Intelligence (AI),positive,Electric Vehicles,POSITIVE_IMPACT
-Machine Learning,positive,Electric Vehicles,POSITIVE_IMPACT
-Internet of Things (IoT),positive,Electric Vehicles,POSITIVE_IMPACT
-5G Connectivity,positive,Electric Vehicles,POSITIVE_IMPACT
-Blockchain,positive,Electric Vehicles,POSITIVE_IMPACT
-Vehicle-to-Grid (V2G) Technology,positive,Electric Vehicles,POSITIVE_IMPACT
-Wireless Charging,positive,Electric Vehicles,POSITIVE_IMPACT
-Autonomous Driving Systems,positive,Electric Vehicles,POSITIVE_IMPACT
-Smart Grid,positive,Renewable Energy Integration,POSITIVE_IMPACT
-Smart Grid,positive,Energy Efficiency,POSITIVE_IMPACT
-Smart Grid,positive,Power Quality,POSITIVE_IMPACT
-Smart Grid,positive,System Reliability,POSITIVE_IMPACT
-Smart Grid,positive,Demand-Side Management,POSITIVE_IMPACT
-Smart Grid,positive,Electric Vehicle Charging,POSITIVE_IMPACT
-Smart Grid,positive,Smart Meter Utilization,POSITIVE_IMPACT
-Smart Grid,positive,Grid Flexibility,POSITIVE_IMPACT
-Smart Grid,positive,Distributed Generation,POSITIVE_IMPACT
-Smart Grid,positive,Cybersecurity Needs,POSITIVE_IMPACT
-Smart Grid,positive,AI Integration,POSITIVE_IMPACT
-Smart Grid,positive,Consumer Awareness,POSITIVE_IMPACT
-Legislation and Policy,positive,Smart Grid,POSITIVE_IMPACT
-Technology Maturity,positive,Smart Grid,POSITIVE_IMPACT
-Data Privacy and Security,negative,Smart Grid,NEGATIVE_IMPACT
-User Acceptance,positive,Smart Grid,POSITIVE_IMPACT
-Energy Storage Systems,positive,Smart Grid,POSITIVE_IMPACT
-IoT Infrastructure,positive,Smart Grid,POSITIVE_IMPACT
-AI and Machine Learning,positive,Smart Grid,POSITIVE_IMPACT
-Renewable Energy Variability,negative,Smart Grid,NEGATIVE_IMPACT
-Weather and Climate,negative,Smart Grid,NEGATIVE_IMPACT
-Heat Pumps,positive,GHG Emissions,POSITIVE_IMPACT
-Heat Pumps,positive,Energy Efficiency,POSITIVE_IMPACT
-Heat Pumps,positive,Building Energy Consumption,POSITIVE_IMPACT
-Heat Pumps,positive,District Heating Integration,POSITIVE_IMPACT
-Heat Pumps,positive,Renewable Energy Use,POSITIVE_IMPACT
-Heat Pumps,positive,System Flexibility,POSITIVE_IMPACT
-Heat Pumps,positive,Thermal Comfort,POSITIVE_IMPACT
-Heat Pumps,positive,Environmental Sustainability,POSITIVE_IMPACT
-Heat Pumps,positive,Smart Grid Compatibility,POSITIVE_IMPACT
-Heat Pumps,positive,Low Temperature Heating Systems,POSITIVE_IMPACT
-High Upfront Costs,negative,Heat Pumps,NEGATIVE_IMPACT
-Policy Support and Incentives,positive,Heat Pumps,POSITIVE_IMPACT
-Public Perception and Awareness,mixed,Heat Pumps,NEGATIVE_IMPACT
-Electric Grid Capacity,negative,Heat Pumps,NEGATIVE_IMPACT
-Technological Advancements,positive,Heat Pumps,POSITIVE_IMPACT
-Availability of Skilled Workforce,positive,Heat Pumps,POSITIVE_IMPACT
-Smart Controls,positive,Heat Pumps,POSITIVE_IMPACT
-Thermal Energy Storage,positive,Heat Pumps,POSITIVE_IMPACT
-Electricity Pricing Structure,mixed,Heat Pumps,NEGATIVE_IMPACT
-Building Retrofitting,positive,Heat Pumps,POSITIVE_IMPACT
-Artificial Intelligence (AI),positive,Heat Pumps,POSITIVE_IMPACT
-Internet of Things (IoT),positive,Heat Pumps,POSITIVE_IMPACT
-Machine Learning,positive,Heat Pumps,POSITIVE_IMPACT
-Smart Meters,positive,Heat Pumps,POSITIVE_IMPACT
-5G Connectivity,positive,Heat Pumps,POSITIVE_IMPACT
-Blockchain,positive,Heat Pumps,POSITIVE_IMPACT
-Thermal Energy Storage,positive,Heat Pumps,POSITIVE_IMPACT
-Building Automation Systems,positive,Heat Pumps,POSITIVE_IMPACT
-District Heating,positive,GHG Emissions,POSITIVE_IMPACT
-District Heating,positive,Energy Efficiency,POSITIVE_IMPACT
-District Heating,positive,Fossil Fuel Dependency,POSITIVE_IMPACT
-District Heating,positive,Building Energy Consumption,POSITIVE_IMPACT
-District Heating,positive,Environmental Sustainability,POSITIVE_IMPACT
-District Heating,positive,Renewable Energy Integration,POSITIVE_IMPACT
-District Heating,positive,System Flexibility,POSITIVE_IMPACT
-District Heating,positive,Air Quality,POSITIVE_IMPACT
-District Heating,positive,EPC Ratings,POSITIVE_IMPACT
-District Heating,positive,Infrastructure Optimization,POSITIVE_IMPACT
-Building Insulation and Thermal Mass,positive,District Heating,POSITIVE_IMPACT
-Urban Density,positive,District Heating,POSITIVE_IMPACT
-Policy Support,positive,District Heating,POSITIVE_IMPACT
-Technology Advancements,positive,District Heating,POSITIVE_IMPACT
-Public Perception,mixed,District Heating,NEGATIVE_IMPACT
-Climate Conditions,mixed,District Heating,NEGATIVE_IMPACT
-Financing and Investment Models,positive,District Heating,POSITIVE_IMPACT
-Availability of Renewable Sources,positive,District Heating,POSITIVE_IMPACT
-Energy Storage Systems,positive,District Heating,POSITIVE_IMPACT
-Smart Meters,positive,District Heating,POSITIVE_IMPACT
-Artificial Intelligence (AI),positive,District Heating,POSITIVE_IMPACT
-Internet of Things (IoT),positive,District Heating,POSITIVE_IMPACT
-Machine Learning,positive,District Heating,POSITIVE_IMPACT
-5G Connectivity,positive,District Heating,POSITIVE_IMPACT
-Building Automation Systems,positive,District Heating,POSITIVE_IMPACT
-Blockchain,positive,District Heating,POSITIVE_IMPACT
-Smart Grid Integration,positive,District Heating,POSITIVE_IMPACT
-EV Charging Points,positive,Air Quality,POSITIVE_IMPACT
-EV Charging Points,positive,Public Health,POSITIVE_IMPACT
-EV Charging Points,positive,GHG Emissions,POSITIVE_IMPACT
-EV Charging Points,positive,EV Adoption,POSITIVE_IMPACT
-EV Charging Points,positive,Smart Grid Integration,POSITIVE_IMPACT
-EV Charging Points,positive,Technology Innovation,POSITIVE_IMPACT
-EV Charging Points,positive,Urban Mobility,POSITIVE_IMPACT
-EV Charging Points,positive,Electricity Demand,POSITIVE_IMPACT
-EV Charging Points,negative,Grid Congestion,NEGATIVE_IMPACT
-EV Charging Points,positive,Smart City Development,POSITIVE_IMPACT
-User Needs and Preferences,positive,EV Charging Points,POSITIVE_IMPACT
-Land Availability,positive,EV Charging Points,POSITIVE_IMPACT
-Energy Supply and Grid Capacity,mixed,EV Charging Points,NEGATIVE_IMPACT
-Financial Models and Incentives,positive,EV Charging Points,POSITIVE_IMPACT
-Government Policy,positive,EV Charging Points,POSITIVE_IMPACT
-Urban Planning,positive,EV Charging Points,POSITIVE_IMPACT
-Technological Advancements,positive,EV Charging Points,POSITIVE_IMPACT
-Public Perception,mixed,EV Charging Points,NEGATIVE_IMPACT
-Renewable Energy Integration,positive,EV Charging Points,POSITIVE_IMPACT
-Charging Behavior,mixed,EV Charging Points,NEGATIVE_IMPACT
-Artificial Intelligence (AI),positive,EV Charging Points,POSITIVE_IMPACT
-Internet of Things (IoT),positive,EV Charging Points,POSITIVE_IMPACT
-Smart Meters,positive,EV Charging Points,POSITIVE_IMPACT
-5G Connectivity,positive,EV Charging Points,POSITIVE_IMPACT
-Blockchain,positive,EV Charging Points,POSITIVE_IMPACT
-Vehicle-to-Grid (V2G) Technology,positive,EV Charging Points,POSITIVE_IMPACT
-Wireless Charging,positive,EV Charging Points,POSITIVE_IMPACT
-Mobile Applications,positive,EV Charging Points,POSITIVE_IMPACT
-Biomass Boilers,positive,GHG Emissions,POSITIVE_IMPACT
-Biomass Boilers,positive,Fossil Fuel Dependency,POSITIVE_IMPACT
-Biomass Boilers,positive,Energy Costs,POSITIVE_IMPACT
-Biomass Boilers,positive,District Heating,POSITIVE_IMPACT
-Biomass Boilers,positive,Building Energy Consumption,POSITIVE_IMPACT
-Biomass Boilers,positive,Energy Security,POSITIVE_IMPACT
-Biomass Boilers,positive,Renewable Energy Use,POSITIVE_IMPACT
-Biomass Boilers,positive,Air Quality,POSITIVE_IMPACT
-Biomass Boilers,positive,Employment,POSITIVE_IMPACT
-Biomass Boilers,negative,Environmental Impact,NEGATIVE_IMPACT
-Sustainability of Biomass Sources,positive,Biomass Boilers,POSITIVE_IMPACT
-Public Acceptance,mixed,Biomass Boilers,NEGATIVE_IMPACT
-Market Demand,positive,Biomass Boilers,POSITIVE_IMPACT
-Fuel Availability,positive,Biomass Boilers,POSITIVE_IMPACT
-Installation and Operating Costs,negative,Biomass Boilers,NEGATIVE_IMPACT
-Maintenance Requirements,negative,Biomass Boilers,NEGATIVE_IMPACT
-Policy and Regulation,positive,Biomass Boilers,POSITIVE_IMPACT
-Emissions Regulations,mixed,Biomass Boilers,NEGATIVE_IMPACT
-Technology Efficiency,positive,Biomass Boilers,POSITIVE_IMPACT
-Energy Storage Integration,positive,Biomass Boilers,POSITIVE_IMPACT
-Artificial Intelligence (AI),positive,Biomass Boilers,POSITIVE_IMPACT
-Internet of Things (IoT),positive,Biomass Boilers,POSITIVE_IMPACT
-Smart Meters,positive,Biomass Boilers,POSITIVE_IMPACT
-Automation Systems,positive,Biomass Boilers,POSITIVE_IMPACT
-5G Connectivity,positive,Biomass Boilers,POSITIVE_IMPACT
-Thermal Energy Storage,positive,Biomass Boilers,POSITIVE_IMPACT
-Solar PV,positive,GHG Emissions,POSITIVE_IMPACT
-Solar PV,positive,Energy Costs,POSITIVE_IMPACT
-Solar PV,positive,Energy Efficiency,POSITIVE_IMPACT
-Solar PV,positive,Renewable Energy Use,POSITIVE_IMPACT
-Solar PV,positive,Energy Security,POSITIVE_IMPACT
-Solar PV,positive,Grid Decentralization,POSITIVE_IMPACT
-Solar PV,positive,Smart Grid Integration,POSITIVE_IMPACT
-Solar PV,positive,Building Energy Autonomy,POSITIVE_IMPACT
-Solar PV,positive,Urban Sustainability,POSITIVE_IMPACT
-Solar PV,positive,Air Quality,POSITIVE_IMPACT
-Government Incentives,positive,Solar PV,POSITIVE_IMPACT
-Cost of Installation,negative,Solar PV,NEGATIVE_IMPACT
-Public Awareness and Perception,mixed,Solar PV,NEGATIVE_IMPACT
-Building Orientation and Roof Space,positive,Solar PV,POSITIVE_IMPACT
-Electricity Pricing,mixed,Solar PV,NEGATIVE_IMPACT
-Regulatory Framework,positive,Solar PV,POSITIVE_IMPACT
-Energy Storage Integration,positive,Solar PV,POSITIVE_IMPACT
-Grid Infrastructure,mixed,Solar PV,NEGATIVE_IMPACT
-Technology Advancements,positive,Solar PV,POSITIVE_IMPACT
-Urban Planning and Zoning,positive,Solar PV,POSITIVE_IMPACT
-Artificial Intelligence (AI),positive,Solar PV,POSITIVE_IMPACT
-Internet of Things (IoT),positive,Solar PV,POSITIVE_IMPACT
-Smart Meters,positive,Solar PV,POSITIVE_IMPACT
-5G Connectivity,positive,Solar PV,POSITIVE_IMPACT
-Blockchain,positive,Solar PV,POSITIVE_IMPACT
-Energy Management Systems,positive,Solar PV,POSITIVE_IMPACT
-Mobile Apps and Interfaces,positive,Solar PV,POSITIVE_IMPACT
-Public Transportation,positive,GHG Emissions,POSITIVE_IMPACT
-Public Transportation,positive,Air Quality,POSITIVE_IMPACT
-Public Transportation,positive,Traffic Congestion,POSITIVE_IMPACT
-Public Transportation,positive,Public Health,POSITIVE_IMPACT
-Public Transportation,positive,Accessibility,POSITIVE_IMPACT
-Public Transportation,positive,Urban Equity,POSITIVE_IMPACT
-Public Transportation,positive,Energy Efficiency,POSITIVE_IMPACT
-Public Transportation,positive,Land Use Efficiency,POSITIVE_IMPACT
-Public Transportation,positive,Economic Productivity,POSITIVE_IMPACT
-Public Transportation,positive,Noise Pollution,POSITIVE_IMPACT
-Funding and Investment,positive,Public Transportation,POSITIVE_IMPACT
-Policy and Regulation,positive,Public Transportation,POSITIVE_IMPACT
-Urban Density,positive,Public Transportation,POSITIVE_IMPACT
-Infrastructure Availability,positive,Public Transportation,POSITIVE_IMPACT
-Public Perception,mixed,Public Transportation,NEGATIVE_IMPACT
-Technological Innovations,positive,Public Transportation,POSITIVE_IMPACT
-Fare Structure,mixed,Public Transportation,NEGATIVE_IMPACT
-Integration with Other Modes,positive,Public Transportation,POSITIVE_IMPACT
-Real-time Information Systems,positive,Public Transportation,POSITIVE_IMPACT
-Climate Conditions,mixed,Public Transportation,NEGATIVE_IMPACT
-Artificial Intelligence (AI),positive,Public Transportation,POSITIVE_IMPACT
-Internet of Things (IoT),positive,Public Transportation,POSITIVE_IMPACT
-5G Connectivity,positive,Public Transportation,POSITIVE_IMPACT
-Mobile Apps,positive,Public Transportation,POSITIVE_IMPACT
-Smart Cards and Contactless Payments,positive,Public Transportation,POSITIVE_IMPACT
-Autonomous Vehicle Technology,positive,Public Transportation,POSITIVE_IMPACT
-Smart Infrastructure,positive,Public Transportation,POSITIVE_IMPACT
-Car Sharing,positive,GHG Emissions,POSITIVE_IMPACT
-Car Sharing,positive,Air Quality,POSITIVE_IMPACT
-Car Sharing,positive,Traffic Congestion,POSITIVE_IMPACT
-Car Sharing,positive,Parking Demand,POSITIVE_IMPACT
-Car Sharing,positive,Mobility Access,POSITIVE_IMPACT
-Car Sharing,positive,Transportation Costs,POSITIVE_IMPACT
-Car Sharing,positive,Urban Space Efficiency,POSITIVE_IMPACT
-Car Sharing,positive,Energy Efficiency,POSITIVE_IMPACT
-Car Sharing,positive,Integration with Public Transport,POSITIVE_IMPACT
-Car Sharing,positive,Vehicle Utilization,POSITIVE_IMPACT
-Urban Density,positive,Car Sharing,POSITIVE_IMPACT
-Digital Platforms,positive,Car Sharing,POSITIVE_IMPACT
-Public Awareness and Trust,mixed,Car Sharing,NEGATIVE_IMPACT
-Regulations and Licensing,positive,Car Sharing,POSITIVE_IMPACT
-Integration with Other Modes,positive,Car Sharing,POSITIVE_IMPACT
-Availability of Parking Spaces,mixed,Car Sharing,NEGATIVE_IMPACT
-Cost Competitiveness,positive,Car Sharing,POSITIVE_IMPACT
-Fleet Electrification,positive,Car Sharing,POSITIVE_IMPACT
-User Preferences and Behavior,mixed,Car Sharing,NEGATIVE_IMPACT
-Data Privacy and Security,mixed,Car Sharing,NEGATIVE_IMPACT
-Artificial Intelligence (AI),positive,Car Sharing,POSITIVE_IMPACT
-Internet of Things (IoT),positive,Car Sharing,POSITIVE_IMPACT
-Mobile Applications,positive,Car Sharing,POSITIVE_IMPACT
-5G Connectivity,positive,Car Sharing,POSITIVE_IMPACT
-Smart Cards and Payment Systems,positive,Car Sharing,POSITIVE_IMPACT
-Autonomous Vehicle Technology,positive,Car Sharing,POSITIVE_IMPACT
-Blockchain,positive,Car Sharing,POSITIVE_IMPACT
-Smart Meters,positive,Energy Efficiency,POSITIVE_IMPACT
-Smart Meters,positive,Consumer Awareness,POSITIVE_IMPACT
-Smart Meters,positive,Demand Response,POSITIVE_IMPACT
-Smart Meters,positive,Billing Accuracy,POSITIVE_IMPACT
-Smart Meters,positive,Grid Stability,POSITIVE_IMPACT
-Smart Meters,positive,Renewable Energy Use,POSITIVE_IMPACT
-Smart Meters,positive,Electric Vehicle Charging,POSITIVE_IMPACT
-Smart Meters,positive,Integration with Smart Grids,POSITIVE_IMPACT
-Smart Meters,positive,Energy Cost Transparency,POSITIVE_IMPACT
-Smart Meters,positive,Carbon Emissions Reduction,POSITIVE_IMPACT
-Policy and Regulation,positive,Smart Meters,POSITIVE_IMPACT
-Consumer Acceptance,mixed,Smart Meters,NEGATIVE_IMPACT
-Upfront Installation Costs,negative,Smart Meters,NEGATIVE_IMPACT
-Digital Literacy,positive,Smart Meters,POSITIVE_IMPACT
-Communication Infrastructure,positive,Smart Meters,POSITIVE_IMPACT
-Data Privacy Concerns,negative,Smart Meters,NEGATIVE_IMPACT
-Integration with Energy Systems,positive,Smart Meters,POSITIVE_IMPACT
-Technology Standards,positive,Smart Meters,POSITIVE_IMPACT
-Utilities Engagement,positive,Smart Meters,POSITIVE_IMPACT
-Education and Awareness Campaigns,positive,Smart Meters,POSITIVE_IMPACT
-Artificial Intelligence (AI),positive,Smart Meters,POSITIVE_IMPACT
-Internet of Things (IoT),positive,Smart Meters,POSITIVE_IMPACT
-5G Connectivity,positive,Smart Meters,POSITIVE_IMPACT
-Blockchain,positive,Smart Meters,POSITIVE_IMPACT
-Cloud Computing,positive,Smart Meters,POSITIVE_IMPACT
-Mobile Applications,positive,Smart Meters,POSITIVE_IMPACT
-Cycling,positive,GHG Emissions,POSITIVE_IMPACT
-Cycling,positive,Air Quality,POSITIVE_IMPACT
-Cycling,positive,Traffic Congestion,POSITIVE_IMPACT
-Cycling,positive,Public Health,POSITIVE_IMPACT
-Cycling,positive,Noise Pollution,POSITIVE_IMPACT
-Cycling,positive,Mobility Access,POSITIVE_IMPACT
-Cycling,positive,Urban Livability,POSITIVE_IMPACT
-Cycling,positive,Land Use Efficiency,POSITIVE_IMPACT
-Cycling,positive,Transportation Equity,POSITIVE_IMPACT
-Cycling,positive,Infrastructure Costs,POSITIVE_IMPACT
-Bicycle Infrastructure,positive,Cycling,POSITIVE_IMPACT
-Urban Design,positive,Cycling,POSITIVE_IMPACT
-Traffic Safety,mixed,Cycling,NEGATIVE_IMPACT
-Weather and Climate,mixed,Cycling,NEGATIVE_IMPACT
-Public Awareness Campaigns,positive,Cycling,POSITIVE_IMPACT
-Policy and Regulation,positive,Cycling,POSITIVE_IMPACT
-Integration with Public Transport,positive,Cycling,POSITIVE_IMPACT
-Cultural Attitudes,mixed,Cycling,NEGATIVE_IMPACT
-Bike Sharing Systems,positive,Cycling,POSITIVE_IMPACT
-Funding and Investment,positive,Cycling,POSITIVE_IMPACT
-Mobile Applications,positive,Cycling,POSITIVE_IMPACT
-GPS and Tracking,positive,Cycling,POSITIVE_IMPACT
-Bike Sharing Technology,positive,Cycling,POSITIVE_IMPACT
-Internet of Things (IoT),positive,Cycling,POSITIVE_IMPACT
-Smart Traffic Systems,positive,Cycling,POSITIVE_IMPACT
-5G Connectivity,positive,Cycling,POSITIVE_IMPACT
-Data Analytics,positive,Cycling,POSITIVE_IMPACT
-Green Spaces,positive,Air Quality,POSITIVE_IMPACT
-Green Spaces,positive,Urban Temperature,POSITIVE_IMPACT
-Green Spaces,positive,Public Health,POSITIVE_IMPACT
-Green Spaces,positive,Stormwater Management,POSITIVE_IMPACT
-Green Spaces,positive,Biodiversity,POSITIVE_IMPACT
-Green Spaces,positive,Noise Pollution,POSITIVE_IMPACT
-Green Spaces,positive,Urban Livability,POSITIVE_IMPACT
-Green Spaces,positive,Carbon Sequestration,POSITIVE_IMPACT
-Green Spaces,positive,Property Value,POSITIVE_IMPACT
-Green Spaces,positive,Mental Wellbeing,POSITIVE_IMPACT
-Urban Planning and Zoning,positive,Green Spaces,POSITIVE_IMPACT
-Land Availability,mixed,Green Spaces,NEGATIVE_IMPACT
-Public Awareness and Support,positive,Green Spaces,POSITIVE_IMPACT
-Climate Conditions,mixed,Green Spaces,NEGATIVE_IMPACT
-Funding and Maintenance,positive,Green Spaces,POSITIVE_IMPACT
-Policy and Environmental Regulations,positive,Green Spaces,POSITIVE_IMPACT
-Environmental Justice Initiatives,positive,Green Spaces,POSITIVE_IMPACT
-Heat Stress Events,positive,Green Spaces,POSITIVE_IMPACT
-Green Infrastructure Programs,positive,Green Spaces,POSITIVE_IMPACT
-Accessibility and Design,positive,Green Spaces,POSITIVE_IMPACT
-Remote Sensing and GIS,positive,Green Spaces,POSITIVE_IMPACT
-Smart Irrigation Systems,positive,Green Spaces,POSITIVE_IMPACT
-Environmental Sensors,positive,Green Spaces,POSITIVE_IMPACT
-Data Analytics,positive,Green Spaces,POSITIVE_IMPACT
-Mobile Apps,positive,Green Spaces,POSITIVE_IMPACT
-Drone Technology,positive,Green Spaces,POSITIVE_IMPACT
-5G Connectivity,positive,Green Spaces,POSITIVE_IMPACT
-Multipurpose Buildings,positive,Land Use Efficiency,POSITIVE_IMPACT
-Multipurpose Buildings,positive,Energy Efficiency,POSITIVE_IMPACT
-Multipurpose Buildings,positive,Urban Density,POSITIVE_IMPACT
-Multipurpose Buildings,positive,Mobility Patterns,POSITIVE_IMPACT
-Multipurpose Buildings,positive,Social Interaction,POSITIVE_IMPACT
-Multipurpose Buildings,positive,Infrastructure Efficiency,POSITIVE_IMPACT
-Multipurpose Buildings,positive,Resilience,POSITIVE_IMPACT
-Multipurpose Buildings,positive,Building Performance,POSITIVE_IMPACT
-Multipurpose Buildings,positive,Accessibility,POSITIVE_IMPACT
-Multipurpose Buildings,positive,Sustainability,POSITIVE_IMPACT
-Urban Planning and Zoning,positive,Multipurpose Buildings,POSITIVE_IMPACT
-Construction Costs,negative,Multipurpose Buildings,NEGATIVE_IMPACT
-Architectural Design,positive,Multipurpose Buildings,POSITIVE_IMPACT
-Energy Codes and Standards,positive,Multipurpose Buildings,POSITIVE_IMPACT
-Building Technologies,positive,Multipurpose Buildings,POSITIVE_IMPACT
-Policy Incentives,positive,Multipurpose Buildings,POSITIVE_IMPACT
-Public Perception,mixed,Multipurpose Buildings,NEGATIVE_IMPACT
-Land Value,mixed,Multipurpose Buildings,NEGATIVE_IMPACT
-Climate Considerations,mixed,Multipurpose Buildings,NEGATIVE_IMPACT
-Operational Complexity,negative,Multipurpose Buildings,NEGATIVE_IMPACT
-Building Management Systems (BMS),positive,Multipurpose Buildings,POSITIVE_IMPACT
-Artificial Intelligence (AI),positive,Multipurpose Buildings,POSITIVE_IMPACT
-Internet of Things (IoT),positive,Multipurpose Buildings,POSITIVE_IMPACT
-Smart Meters,positive,Multipurpose Buildings,POSITIVE_IMPACT
-Energy Management Systems,positive,Multipurpose Buildings,POSITIVE_IMPACT
-5G Connectivity,positive,Multipurpose Buildings,POSITIVE_IMPACT
-Digital Twins,positive,Multipurpose Buildings,POSITIVE_IMPACT
-Renewable Energy Generation,positive,GHG Emissions,POSITIVE_IMPACT
-Renewable Energy Generation,positive,Energy Security,POSITIVE_IMPACT
-Renewable Energy Generation,positive,Air Quality,POSITIVE_IMPACT
-Renewable Energy Generation,positive,Energy Costs,POSITIVE_IMPACT
-Renewable Energy Generation,positive,Smart Grid Integration,POSITIVE_IMPACT
-Renewable Energy Generation,positive,Building Energy Autonomy,POSITIVE_IMPACT
-Renewable Energy Generation,positive,Public Health,POSITIVE_IMPACT
-Renewable Energy Generation,positive,Carbon Sequestration,POSITIVE_IMPACT
-Renewable Energy Generation,positive,Resilience,POSITIVE_IMPACT
-Renewable Energy Generation,positive,Sustainability,POSITIVE_IMPACT
-Government Incentives and Subsidies,positive,Renewable Energy Generation,POSITIVE_IMPACT
-Grid Infrastructure,mixed,Renewable Energy Generation,NEGATIVE_IMPACT
-Energy Storage Systems,positive,Renewable Energy Generation,POSITIVE_IMPACT
-Technology Advancements,positive,Renewable Energy Generation,POSITIVE_IMPACT
-Public Perception and Awareness,mixed,Renewable Energy Generation,NEGATIVE_IMPACT
-Land Availability and Use,mixed,Renewable Energy Generation,NEGATIVE_IMPACT
-Climate and Weather Variability,mixed,Renewable Energy Generation,NEGATIVE_IMPACT
-Policy and Regulation,positive,Renewable Energy Generation,POSITIVE_IMPACT
-Market Conditions,mixed,Renewable Energy Generation,NEGATIVE_IMPACT
-Interconnection Standards,positive,Renewable Energy Generation,POSITIVE_IMPACT
-Artificial Intelligence (AI),positive,Renewable Energy Generation,POSITIVE_IMPACT
-Internet of Things (IoT),positive,Renewable Energy Generation,POSITIVE_IMPACT
-5G Connectivity,positive,Renewable Energy Generation,POSITIVE_IMPACT
-Smart Meters,positive,Renewable Energy Generation,POSITIVE_IMPACT
-Blockchain,positive,Renewable Energy Generation,POSITIVE_IMPACT
-Cloud Computing,positive,Renewable Energy Generation,POSITIVE_IMPACT
-Energy Management Systems,positive,Renewable Energy Generation,POSITIVE_IMPACT
-Energy Management Systems,positive,Energy Efficiency,POSITIVE_IMPACT
-Energy Management Systems,positive,GHG Emissions,POSITIVE_IMPACT
-Energy Management Systems,positive,Operational Costs,POSITIVE_IMPACT
-Energy Management Systems,positive,Grid Flexibility,POSITIVE_IMPACT
-Energy Management Systems,positive,Renewable Energy Integration,POSITIVE_IMPACT
-Energy Management Systems,positive,Smart Grid Performance,POSITIVE_IMPACT
-Energy Management Systems,positive,Building Performance,POSITIVE_IMPACT
-Energy Management Systems,positive,System Resilience,POSITIVE_IMPACT
-Energy Management Systems,positive,Data-Driven Decision Making,POSITIVE_IMPACT
-Energy Management Systems,positive,User Engagement,POSITIVE_IMPACT
-Digital Infrastructure,positive,Energy Management Systems,POSITIVE_IMPACT
-Policy and Incentives,positive,Energy Management Systems,POSITIVE_IMPACT
-Energy Prices,mixed,Energy Management Systems,NEGATIVE_IMPACT
-System Complexity,negative,Energy Management Systems,NEGATIVE_IMPACT
-Interoperability Standards,positive,Energy Management Systems,POSITIVE_IMPACT
-Consumer Awareness,mixed,Energy Management Systems,NEGATIVE_IMPACT
-Upfront Investment,negative,Energy Management Systems,NEGATIVE_IMPACT
-Skilled Workforce,positive,Energy Management Systems,POSITIVE_IMPACT
-Scalability of Solutions,positive,Energy Management Systems,POSITIVE_IMPACT
-Cybersecurity Measures,positive,Energy Management Systems,POSITIVE_IMPACT
-Artificial Intelligence (AI),positive,Energy Management Systems,POSITIVE_IMPACT
-Internet of Things (IoT),positive,Energy Management Systems,POSITIVE_IMPACT
-Smart Meters,positive,Energy Management Systems,POSITIVE_IMPACT
-Cloud Computing,positive,Energy Management Systems,POSITIVE_IMPACT
-5G Connectivity,positive,Energy Management Systems,POSITIVE_IMPACT
-Digital Twins,positive,Energy Management Systems,POSITIVE_IMPACT
-Blockchain,positive,Energy Management Systems,POSITIVE_IMPACT
-Electrification of Public Transport,positive,GHG Emissions,POSITIVE_IMPACT
-Electrification of Public Transport,positive,Air Quality,POSITIVE_IMPACT
-Electrification of Public Transport,positive,Noise Pollution,POSITIVE_IMPACT
-Electrification of Public Transport,positive,Public Health,POSITIVE_IMPACT
-Electrification of Public Transport,positive,Energy Efficiency,POSITIVE_IMPACT
-Electrification of Public Transport,positive,Urban Livability,POSITIVE_IMPACT
-Electrification of Public Transport,positive,Mobility Access,POSITIVE_IMPACT
-Electrification of Public Transport,positive,Sustainability,POSITIVE_IMPACT
-Electrification of Public Transport,positive,Integration with Smart Grid,POSITIVE_IMPACT
-Electrification of Public Transport,positive,Operational Costs,POSITIVE_IMPACT
-Charging Infrastructure,positive,Electrification of Public Transport,POSITIVE_IMPACT
-Electric Grid Capacity,mixed,Electrification of Public Transport,NEGATIVE_IMPACT
-Policy Support,positive,Electrification of Public Transport,POSITIVE_IMPACT
-Fleet Investment Costs,negative,Electrification of Public Transport,NEGATIVE_IMPACT
-Public Perception,mixed,Electrification of Public Transport,NEGATIVE_IMPACT
-Technology Maturity,positive,Electrification of Public Transport,POSITIVE_IMPACT
-Urban Planning and Zoning,positive,Electrification of Public Transport,POSITIVE_IMPACT
-Integration with Transit Systems,positive,Electrification of Public Transport,POSITIVE_IMPACT
-Climate Conditions,mixed,Electrification of Public Transport,NEGATIVE_IMPACT
-Training and Workforce Development,positive,Electrification of Public Transport,POSITIVE_IMPACT
-Artificial Intelligence (AI),positive,Electrification of Public Transport,POSITIVE_IMPACT
-Internet of Things (IoT),positive,Electrification of Public Transport,POSITIVE_IMPACT
-Smart Meters,positive,Electrification of Public Transport,POSITIVE_IMPACT
-5G Connectivity,positive,Electrification of Public Transport,POSITIVE_IMPACT
-Battery Management Systems,positive,Electrification of Public Transport,POSITIVE_IMPACT
-Energy Management Systems,positive,Electrification of Public Transport,POSITIVE_IMPACT
-Vehicle-to-Grid (V2G) Technology,positive,Electrification of Public Transport,POSITIVE_IMPACT
-Clean Air Zones,positive,Air Quality,POSITIVE_IMPACT
-Clean Air Zones,positive,GHG Emissions,POSITIVE_IMPACT
-Clean Air Zones,positive,Public Health,POSITIVE_IMPACT
-Clean Air Zones,positive,Noise Pollution,POSITIVE_IMPACT
-Clean Air Zones,positive,Modal Shift,POSITIVE_IMPACT
-Clean Air Zones,positive,Urban Livability,POSITIVE_IMPACT
-Clean Air Zones,positive,Vehicle Fleet Modernization,POSITIVE_IMPACT
-Clean Air Zones,positive,Compliance with Air Quality Standards,POSITIVE_IMPACT
-Clean Air Zones,positive,Transport Behavior Change,POSITIVE_IMPACT
-Clean Air Zones,positive,Data-Driven Policy Enforcement,POSITIVE_IMPACT
-Vehicle Emissions Data,positive,Clean Air Zones,POSITIVE_IMPACT
-Public Acceptance,mixed,Clean Air Zones,NEGATIVE_IMPACT
-Legal and Policy Framework,positive,Clean Air Zones,POSITIVE_IMPACT
-Technology for Enforcement,positive,Clean Air Zones,POSITIVE_IMPACT
-Availability of Clean Vehicles,positive,Clean Air Zones,POSITIVE_IMPACT
-Public Communication Campaigns,positive,Clean Air Zones,POSITIVE_IMPACT
-Socioeconomic Equity Considerations,mixed,Clean Air Zones,NEGATIVE_IMPACT
-Urban Transport Alternatives,positive,Clean Air Zones,POSITIVE_IMPACT
-Infrastructure Readiness,positive,Clean Air Zones,POSITIVE_IMPACT
-Enforcement Capacity,positive,Clean Air Zones,POSITIVE_IMPACT
-Automatic Number Plate Recognition (ANPR),positive,Clean Air Zones,POSITIVE_IMPACT
-Air Quality Monitoring Sensors,positive,Clean Air Zones,POSITIVE_IMPACT
-Geofencing,positive,Clean Air Zones,POSITIVE_IMPACT
-Real-Time Traffic Management Systems,positive,Clean Air Zones,POSITIVE_IMPACT
-Public Information Platforms,positive,Clean Air Zones,POSITIVE_IMPACT
-Data Analytics,positive,Clean Air Zones,POSITIVE_IMPACT
-Solar Thermals,positive,GHG Emissions,POSITIVE_IMPACT
-Solar Thermals,positive,Energy Efficiency,POSITIVE_IMPACT
-Solar Thermals,positive,Renewable Energy Use,POSITIVE_IMPACT
-Solar Thermals,positive,Energy Costs,POSITIVE_IMPACT
-Solar Thermals,positive,Building Sustainability,POSITIVE_IMPACT
-Solar Thermals,positive,District Heating Integration,POSITIVE_IMPACT
-Solar Thermals,positive,Energy Security,POSITIVE_IMPACT
-Solar Thermals,positive,Urban Climate Resilience,POSITIVE_IMPACT
-Solar Thermals,positive,Hot Water Supply Reliability,POSITIVE_IMPACT
-Solar Thermals,positive,Infrastructure Decentralization,POSITIVE_IMPACT
-Solar Radiation Availability,positive,Solar Thermals,POSITIVE_IMPACT
-Roof Space and Orientation,positive,Solar Thermals,POSITIVE_IMPACT
-Building Integration Capacity,positive,Solar Thermals,POSITIVE_IMPACT
-Policy Incentives,positive,Solar Thermals,POSITIVE_IMPACT
-Upfront Investment Costs,negative,Solar Thermals,NEGATIVE_IMPACT
-Maintenance Requirements,negative,Solar Thermals,NEGATIVE_IMPACT
-Public Awareness,mixed,Solar Thermals,NEGATIVE_IMPACT
-Installer Availability,positive,Solar Thermals,POSITIVE_IMPACT
-Compatibility with Existing Systems,mixed,Solar Thermals,NEGATIVE_IMPACT
-Thermal Energy Storage,positive,Solar Thermals,POSITIVE_IMPACT
-Thermal Energy Storage,positive,Solar Thermals,POSITIVE_IMPACT
-Smart Meters,positive,Solar Thermals,POSITIVE_IMPACT
-Building Management Systems (BMS),positive,Solar Thermals,POSITIVE_IMPACT
-Monitoring Sensors,positive,Solar Thermals,POSITIVE_IMPACT
-Energy Management Systems,positive,Solar Thermals,POSITIVE_IMPACT
-HVAC Electrification,positive,GHG Emissions,POSITIVE_IMPACT
-HVAC Electrification,positive,Energy Efficiency,POSITIVE_IMPACT
-HVAC Electrification,positive,Indoor Air Quality,POSITIVE_IMPACT
-HVAC Electrification,positive,Building Energy Performance,POSITIVE_IMPACT
-HVAC Electrification,positive,Renewable Energy Integration,POSITIVE_IMPACT
-HVAC Electrification,positive,Carbon Neutrality Targets,POSITIVE_IMPACT
-HVAC Electrification,positive,Noise Pollution Reduction,POSITIVE_IMPACT
-HVAC Electrification,positive,Smart Grid Compatibility,POSITIVE_IMPACT
-HVAC Electrification,positive,Resilience to Fuel Price Volatility,POSITIVE_IMPACT
-HVAC Electrification,positive,Health and Safety,POSITIVE_IMPACT
-Building Envelope Efficiency,positive,HVAC Electrification,POSITIVE_IMPACT
-Upfront Installation Costs,negative,HVAC Electrification,NEGATIVE_IMPACT
-Incentive Programs,positive,HVAC Electrification,POSITIVE_IMPACT
-Grid Capacity,mixed,HVAC Electrification,NEGATIVE_IMPACT
-Technological Maturity,positive,HVAC Electrification,POSITIVE_IMPACT
-Workforce Training,positive,HVAC Electrification,POSITIVE_IMPACT
-Building Use Type,mixed,HVAC Electrification,NEGATIVE_IMPACT
-Climate Conditions,mixed,HVAC Electrification,NEGATIVE_IMPACT
-Policy and Regulation,positive,HVAC Electrification,POSITIVE_IMPACT
-Maintenance Considerations,positive,HVAC Electrification,POSITIVE_IMPACT
-Smart Thermostats,positive,HVAC Electrification,POSITIVE_IMPACT
-Building Management Systems (BMS),positive,HVAC Electrification,POSITIVE_IMPACT
-Energy Management Systems,positive,HVAC Electrification,POSITIVE_IMPACT
-Smart Meters,positive,HVAC Electrification,POSITIVE_IMPACT
-IoT Sensors,positive,HVAC Electrification,POSITIVE_IMPACT
-Cloud-Based Analytics,positive,HVAC Electrification,POSITIVE_IMPACT
-Bike Sharing Systems,positive,GHG Emissions,POSITIVE_IMPACT
-Bike Sharing Systems,positive,Air Quality,POSITIVE_IMPACT
-Bike Sharing Systems,positive,Traffic Congestion,POSITIVE_IMPACT
-Bike Sharing Systems,positive,Public Health,POSITIVE_IMPACT
-Bike Sharing Systems,positive,Transportation Access,POSITIVE_IMPACT
-Bike Sharing Systems,positive,Multimodal Integration,POSITIVE_IMPACT
-Bike Sharing Systems,positive,Urban Livability,POSITIVE_IMPACT
-Bike Sharing Systems,positive,Noise Pollution,POSITIVE_IMPACT
-Bike Sharing Systems,positive,Transport Equity,POSITIVE_IMPACT
-Bike Sharing Systems,positive,Smart Mobility,POSITIVE_IMPACT
-Urban Density,positive,Bike Sharing Systems,POSITIVE_IMPACT
-Bike Infrastructure Quality,positive,Bike Sharing Systems,POSITIVE_IMPACT
-Public Awareness and Promotion,positive,Bike Sharing Systems,POSITIVE_IMPACT
-Climate and Weather,mixed,Bike Sharing Systems,NEGATIVE_IMPACT
-Maintenance and Operations,positive,Bike Sharing Systems,POSITIVE_IMPACT
-Funding and Business Models,positive,Bike Sharing Systems,POSITIVE_IMPACT
-Integration with Public Transport,positive,Bike Sharing Systems,POSITIVE_IMPACT
-User Preferences and Behavior,mixed,Bike Sharing Systems,NEGATIVE_IMPACT
-Vandalism and Theft Rates,negative,Bike Sharing Systems,NEGATIVE_IMPACT
-Regulatory Framework,positive,Bike Sharing Systems,POSITIVE_IMPACT
-Mobile Applications,positive,Bike Sharing Systems,POSITIVE_IMPACT
-GPS and Geofencing,positive,Bike Sharing Systems,POSITIVE_IMPACT
-Smart Locks,positive,Bike Sharing Systems,POSITIVE_IMPACT
-Internet of Things (IoT),positive,Bike Sharing Systems,POSITIVE_IMPACT
-Real-Time Data Platforms,positive,Bike Sharing Systems,POSITIVE_IMPACT
-5G Connectivity,positive,Bike Sharing Systems,POSITIVE_IMPACT
-Smart Traffic Management Systems,positive,Traffic Congestion,POSITIVE_IMPACT
-Smart Traffic Management Systems,positive,GHG Emissions,POSITIVE_IMPACT
-Smart Traffic Management Systems,positive,Air Quality,POSITIVE_IMPACT
-Smart Traffic Management Systems,positive,Public Transport Efficiency,POSITIVE_IMPACT
-Smart Traffic Management Systems,positive,Road Safety,POSITIVE_IMPACT
-Smart Traffic Management Systems,positive,Emergency Response Time,POSITIVE_IMPACT
-Smart Traffic Management Systems,positive,Noise Pollution,POSITIVE_IMPACT
-Smart Traffic Management Systems,positive,Urban Livability,POSITIVE_IMPACT
-Smart Traffic Management Systems,positive,Data-Driven Planning,POSITIVE_IMPACT
-Smart Traffic Management Systems,positive,Multimodal Integration,POSITIVE_IMPACT
-Sensor Infrastructure,positive,Smart Traffic Management Systems,POSITIVE_IMPACT
-Digital Connectivity,positive,Smart Traffic Management Systems,POSITIVE_IMPACT
-Traffic Volume and Patterns,mixed,Smart Traffic Management Systems,NEGATIVE_IMPACT
-Government Investment,positive,Smart Traffic Management Systems,POSITIVE_IMPACT
-Policy and Regulation,positive,Smart Traffic Management Systems,POSITIVE_IMPACT
-Public Acceptance,mixed,Smart Traffic Management Systems,NEGATIVE_IMPACT
-Interoperability with Existing Systems,positive,Smart Traffic Management Systems,POSITIVE_IMPACT
-Cybersecurity Measures,positive,Smart Traffic Management Systems,POSITIVE_IMPACT
-Data Privacy Standards,mixed,Smart Traffic Management Systems,NEGATIVE_IMPACT
-Urban Design and Road Network,mixed,Smart Traffic Management Systems,NEGATIVE_IMPACT
-Artificial Intelligence (AI),positive,Smart Traffic Management Systems,POSITIVE_IMPACT
-Internet of Things (IoT),positive,Smart Traffic Management Systems,POSITIVE_IMPACT
-5G Connectivity,positive,Smart Traffic Management Systems,POSITIVE_IMPACT
-Computer Vision,positive,Smart Traffic Management Systems,POSITIVE_IMPACT
-Edge Computing,positive,Smart Traffic Management Systems,POSITIVE_IMPACT
-Cloud Platforms,positive,Smart Traffic Management Systems,POSITIVE_IMPACT
-Digital Twins,positive,Smart Traffic Management Systems,POSITIVE_IMPACT
-Building Retrofitting,positive,Energy Efficiency,POSITIVE_IMPACT
-Building Retrofitting,positive,GHG Emissions,POSITIVE_IMPACT
-Building Retrofitting,positive,Indoor Comfort,POSITIVE_IMPACT
-Building Retrofitting,positive,Energy Costs,POSITIVE_IMPACT
-Building Retrofitting,positive,Building Value,POSITIVE_IMPACT
-Building Retrofitting,positive,Public Health,POSITIVE_IMPACT
-Building Retrofitting,positive,Grid Load Management,POSITIVE_IMPACT
-Building Retrofitting,positive,Resilience,POSITIVE_IMPACT
-Building Retrofitting,positive,Job Creation,POSITIVE_IMPACT
-Building Retrofitting,positive,Sustainability,POSITIVE_IMPACT
-Policy and Regulation,positive,Building Retrofitting,POSITIVE_IMPACT
-Building Age and Condition,mixed,Building Retrofitting,NEGATIVE_IMPACT
-Construction Costs,negative,Building Retrofitting,NEGATIVE_IMPACT
-Financing Mechanisms,positive,Building Retrofitting,POSITIVE_IMPACT
-Owner Awareness and Motivation,mixed,Building Retrofitting,NEGATIVE_IMPACT
-Skilled Labor Availability,positive,Building Retrofitting,POSITIVE_IMPACT
-Building Use Type,mixed,Building Retrofitting,NEGATIVE_IMPACT
-Material Availability,positive,Building Retrofitting,POSITIVE_IMPACT
-Energy Prices,mixed,Building Retrofitting,NEGATIVE_IMPACT
-Urban Density,mixed,Building Retrofitting,NEGATIVE_IMPACT
-Building Information Modeling (BIM),positive,Building Retrofitting,POSITIVE_IMPACT
-Thermal Imaging,positive,Building Retrofitting,POSITIVE_IMPACT
-Smart Meters,positive,Building Retrofitting,POSITIVE_IMPACT
-Building Management Systems (BMS),positive,Building Retrofitting,POSITIVE_IMPACT
-IoT Sensors,positive,Building Retrofitting,POSITIVE_IMPACT
-Prefabrication Technologies,positive,Building Retrofitting,POSITIVE_IMPACT
-Green Roofs and Walls,positive,Urban Temperature,POSITIVE_IMPACT
-Green Roofs and Walls,positive,Stormwater Management,POSITIVE_IMPACT
-Green Roofs and Walls,positive,Air Quality,POSITIVE_IMPACT
-Green Roofs and Walls,positive,GHG Emissions,POSITIVE_IMPACT
-Green Roofs and Walls,positive,Biodiversity,POSITIVE_IMPACT
-Green Roofs and Walls,positive,Building Insulation,POSITIVE_IMPACT
-Green Roofs and Walls,positive,Noise Pollution,POSITIVE_IMPACT
-Green Roofs and Walls,positive,Mental Wellbeing,POSITIVE_IMPACT
-Green Roofs and Walls,positive,Urban Livability,POSITIVE_IMPACT
-Green Roofs and Walls,positive,Property Value,POSITIVE_IMPACT
-Structural Load Capacity,mixed,Green Roofs and Walls,NEGATIVE_IMPACT
-Installation Costs,negative,Green Roofs and Walls,NEGATIVE_IMPACT
-Maintenance Requirements,negative,Green Roofs and Walls,NEGATIVE_IMPACT
-Climate and Weather,mixed,Green Roofs and Walls,NEGATIVE_IMPACT
-Policy and Regulation,positive,Green Roofs and Walls,POSITIVE_IMPACT
-Public Awareness,positive,Green Roofs and Walls,POSITIVE_IMPACT
-Green Infrastructure Programs,positive,Green Roofs and Walls,POSITIVE_IMPACT
-Building Design and Orientation,mixed,Green Roofs and Walls,NEGATIVE_IMPACT
-Water Supply and Drainage,mixed,Green Roofs and Walls,NEGATIVE_IMPACT
-Availability of Skilled Workforce,positive,Green Roofs and Walls,POSITIVE_IMPACT
-Smart Irrigation Systems,positive,Green Roofs and Walls,POSITIVE_IMPACT
-Remote Sensing,positive,Green Roofs and Walls,POSITIVE_IMPACT
-Environmental Sensors,positive,Green Roofs and Walls,POSITIVE_IMPACT
-Green Roof Mapping Platforms,positive,Green Roofs and Walls,POSITIVE_IMPACT
-Modular Green Roof Systems,positive,Green Roofs and Walls,POSITIVE_IMPACT
-Mobility as a Service (MaaS),positive,Multimodal Integration,POSITIVE_IMPACT
-Mobility as a Service (MaaS),positive,Transportation Access,POSITIVE_IMPACT
-Mobility as a Service (MaaS),positive,Traffic Congestion,POSITIVE_IMPACT
-Mobility as a Service (MaaS),positive,GHG Emissions,POSITIVE_IMPACT
-Mobility as a Service (MaaS),positive,Transport Affordability,POSITIVE_IMPACT
-Mobility as a Service (MaaS),positive,Urban Livability,POSITIVE_IMPACT
-Mobility as a Service (MaaS),positive,Public Transport Ridership,POSITIVE_IMPACT
-Mobility as a Service (MaaS),positive,User Convenience,POSITIVE_IMPACT
-Mobility as a Service (MaaS),positive,Transport System Efficiency,POSITIVE_IMPACT
-Mobility as a Service (MaaS),positive,Digital Inclusion,POSITIVE_IMPACT
-Data Sharing Agreements,positive,Mobility as a Service (MaaS),POSITIVE_IMPACT
-Digital Infrastructure,positive,Mobility as a Service (MaaS),POSITIVE_IMPACT
-Transport Network Coverage,positive,Mobility as a Service (MaaS),POSITIVE_IMPACT
-User Trust and Data Privacy,mixed,Mobility as a Service (MaaS),NEGATIVE_IMPACT
-Interoperability Standards,positive,Mobility as a Service (MaaS),POSITIVE_IMPACT
-Public and Private Collaboration,positive,Mobility as a Service (MaaS),POSITIVE_IMPACT
-Policy and Regulation,positive,Mobility as a Service (MaaS),POSITIVE_IMPACT
-User Digital Literacy,mixed,Mobility as a Service (MaaS),NEGATIVE_IMPACT
-Fare System Integration,positive,Mobility as a Service (MaaS),POSITIVE_IMPACT
-Smartphone Penetration,positive,Mobility as a Service (MaaS),POSITIVE_IMPACT
-Mobile Applications,positive,Mobility as a Service (MaaS),POSITIVE_IMPACT
-GPS and Geolocation Services,positive,Mobility as a Service (MaaS),POSITIVE_IMPACT
-Payment Integration Platforms,positive,Mobility as a Service (MaaS),POSITIVE_IMPACT
-Data Analytics,positive,Mobility as a Service (MaaS),POSITIVE_IMPACT
-5G Connectivity,positive,Mobility as a Service (MaaS),POSITIVE_IMPACT
-User Experience (UX) Design Tools,positive,Mobility as a Service (MaaS),POSITIVE_IMPACT
-Cloud Infrastructure,positive,Mobility as a Service (MaaS),POSITIVE_IMPACT
-Autonomous Vehicles,positive,Traffic Efficiency,POSITIVE_IMPACT
-Autonomous Vehicles,positive,Road Safety,POSITIVE_IMPACT
-Autonomous Vehicles,positive,GHG Emissions,POSITIVE_IMPACT
-Autonomous Vehicles,positive,Mobility Access,POSITIVE_IMPACT
-Autonomous Vehicles,positive,Public Transport Integration,POSITIVE_IMPACT
-Autonomous Vehicles,positive,Parking Demand,POSITIVE_IMPACT
-Autonomous Vehicles,positive,Land Use Flexibility,POSITIVE_IMPACT
-Autonomous Vehicles,positive,Logistics and Delivery,POSITIVE_IMPACT
-Autonomous Vehicles,positive,Transport System Resilience,POSITIVE_IMPACT
-Autonomous Vehicles,positive,Urban Innovation Ecosystem,POSITIVE_IMPACT
-AI and Machine Learning,positive,Autonomous Vehicles,POSITIVE_IMPACT
-Sensor and Camera Technology,positive,Autonomous Vehicles,POSITIVE_IMPACT
-5G and Edge Connectivity,positive,Autonomous Vehicles,POSITIVE_IMPACT
-Policy and Regulation,mixed,Autonomous Vehicles,NEGATIVE_IMPACT
-Public Trust and Perception,mixed,Autonomous Vehicles,NEGATIVE_IMPACT
-Urban Infrastructure Readiness,positive,Autonomous Vehicles,POSITIVE_IMPACT
-Cybersecurity Systems,positive,Autonomous Vehicles,POSITIVE_IMPACT
-Testing and Validation Frameworks,positive,Autonomous Vehicles,POSITIVE_IMPACT
-Vehicle Electrification,positive,Autonomous Vehicles,POSITIVE_IMPACT
-Insurance and Liability Models,mixed,Autonomous Vehicles,NEGATIVE_IMPACT
-LiDAR and Radar Systems,positive,Autonomous Vehicles,POSITIVE_IMPACT
-High-Definition Mapping,positive,Autonomous Vehicles,POSITIVE_IMPACT
-Cloud-Based Processing,positive,Autonomous Vehicles,POSITIVE_IMPACT
-Vehicle-to-Infrastructure (V2I),positive,Autonomous Vehicles,POSITIVE_IMPACT
-Vehicle-to-Vehicle (V2V),positive,Autonomous Vehicles,POSITIVE_IMPACT
-Simulation Environments,positive,Autonomous Vehicles,POSITIVE_IMPACT
-Over-the-Air Updates,positive,Autonomous Vehicles,POSITIVE_IMPACT
+Source,Relationship.type,Target,Description
+Electric Vehicles,negative,Greenhouse Gas Emissions,EVs can reduce GHG by eliminating direct emissions and utilizing low-carbon electricity sources.
+Electric Vehicles,negative,Fossil Fuel Dependency,"Evs can reduce dependency on fossil fuel by decreasing the demand for gasoline and diesel, instead relying on electricity, which can be generated from renewable energy sources."
+Electric Vehicles,positive,Public Health,"EVs improve public health by reducing air pollution as they produce no exhaust emissions, which lowers the risk of respiratory and cardiovascular diseases."
+Electric Vehicles,positive,Air Quality,EVS improve the air quality by reducing harmful emissions.
+Electric Vehicles,positive,Electricity Demand,Electric vehicles (EVs) require energy from the grid to charge their batteries.
+Electric Vehicles,positive,Charging Infrastructure,Evs improve the charging infrastructure by supporting growing usage and accessibility.
+Electric Vehicles,positive,Energy Efficiency,Evs improve energy efficiency by using less energy to travel the same distance compared to fuel-powered vehicles.
+Electric Vehicles,negative,Urban Noise,EVs reduce urban noise because their motors operate much more quietly than internal combustion engines.
+Electric Vehicles,negative,Carbon Emissions,"EVs don't burn fossil fuels and can use clean, renewable electricity for power."
+Electric Vehicles,mixed,Peak demand,"EVs put more load on the grid, but they can also help make it smarter and cleaner."
+Electric Vehicles,positive,Grid Flexibility," EVs can improve the flexibility of the grid by enabling smart charging, providing energy storage through V2G, and supporting the integration of renewable energy."
+Electric Vehicles,negative,Infrastructure Costs,EVs require significant investment in grid upgrades and charging networks.
+Electric Vehicles,positive,Energy Transition,Evs support energy transition by reducing fossil fuel use and enabling greater use of renewable energy.
+Electric Vehicles,positive,Smart Grid Integration,"EVs positively impact smart grid integration by enabling smart charging, energy storage, and better load balancing through real-time communication with the grid."
+Electric Vehicles,positive,Charging Point Availability,EVs improve charging point availability by driving investment in charging infrastructure to meet growing demand and expand access.
+Electric Vehicles,mixed,Congestion,EVs have a mixed impact on congestion�they can reduce it through shared and public use but increase it if private car ownership rises.
+Electric Vehicles,negative,Battery Recycling/Waste Management,"EVs have a negative impact on battery recycling because current recycling systems are not fully developed, and EV batteries are complex, hazardous, and costly to process."
+Cost,negative,Electric Vehicles,High cost reduces adoption.
+Range (Battery Capacity),positive,Electric Vehicles,Longer range encourages adoption.
+Charging Infrastructure Availability,positive,Electric Vehicles,More availability boosts convenience and adoption.
+Battery Technology,positive,Electric Vehicles,Better tech improves performance and appeal.
+Government Policies and Incentives,positive,Electric Vehicles,Subsidies and incentives encourage uptake.
+Environmental Impact Awareness,positive,Electric Vehicles,Awareness of climate benefits supports EV use.
+Smart Grid Integration,positive,Electric Vehicles,Supports efficient and flexible charging.
+Electricity Availability,positive,Electric Vehicles,Adequate electricity enables wider adoption.
+Land Availability for Chargers,positive,Electric Vehicles,Space for chargers facilitates infrastructure deployment.
+Infrastructure Delivery Plans,positive,Electric Vehicles,Clear plans accelerate infrastructure roll-out.
+Technological Advancements,positive,Electric Vehicles,"Improves usability, reliability, and affordability."
+Artificial Intelligence (AI),positive,Electric Vehicles,"Enables smart routing, energy optimization, and predictive maintenance"
+Internet of Things (IoT),positive,Electric Vehicles,Enhances real-time data sharing for smart charging and diagnostics.
+5G Connectivity,positive,Electric Vehicles,Improves vehicle-to-infrastructure communication and autonomous functions.
+Blockchain,positive,Electric Vehicles,Secures EV charging transactions and grid integration data.
+Vehicle-to-Grid (V2G) Technology,positive,Electric Vehicles,"Allows EVs to supply energy back to the grid, enhancing grid flexibility."
+Wireless Charging,positive,Electric Vehicles,Increases user convenience and charging accessibility.
+Autonomous Driving Systems,positive,Electric Vehicles,Can integrate with EVs for future smart mobility.
+Smart Grid,positive,Renewable Energy Integration,"Enables better integration of solar, wind, etc."
+Smart Grid,positive,Energy Efficiency,Optimizes energy use and distribution
+Smart Grid,positive,Power Quality,Reduces blackouts and improves voltage regulation
+Smart Grid,positive,System Reliability,Enhances stability and resilience
+Smart Grid,positive,Demand-Side Management,Supports real-time load adjustments
+Smart Grid,positive,Electric Vehicle Charging,Manages charging demand and prevents overloads
+Smart Grid,positive,Smart Meter Utilization,Enhances data usage and responsiveness
+Smart Grid,positive,Grid Flexibility,Supports two-way communication and load shifting
+Smart Grid,positive,Distributed Generation,Accommodates local energy production
+Smart Grid,positive,Cybersecurity Needs,Requires stronger digital protection measures
+Smart Grid,positive,AI Integration,Enables optimization and autonomous control
+Smart Grid,positive,Consumer Awareness,Improves energy use behavior with real-time feedback
+Legislation and Policy,positive,Smart Grid,Regulatory support enables deployment
+Technology Maturity,positive,Smart Grid,Advanced tech is necessary for full functionality
+Data Privacy and Security,negative,Smart Grid,Concerns limit adoption and trust
+User Acceptance,positive,Smart Grid,Willingness to adopt smart tech supports rollout
+Energy Storage Systems,positive,Smart Grid,Enables load balancing and demand response
+IoT Infrastructure,positive,Smart Grid,Allows for connected devices and grid monitoring
+AI and Machine Learning,positive,Smart Grid,Enable predictive maintenance and optimization
+Renewable Energy Variability,negative,Smart Grid,Causes grid balancing challenges
+Weather and Climate,negative,Smart Grid,Affects load forecasting and energy production
+Heat Pumps,positive,GHG Emissions,Reduces emissions compared to fossil heating systems
+Heat Pumps,positive,Energy Efficiency,More efficient than traditional systems
+Heat Pumps,positive,Building Energy Consumption,Lowers overall energy use
+Heat Pumps,positive,District Heating Integration,Can support and benefit from district networks
+Heat Pumps,positive,Renewable Energy Use,Can be powered by clean electricity
+Heat Pumps,positive,System Flexibility,Supports load shifting and peak shaving
+Heat Pumps,positive,Thermal Comfort,Provides stable and adjustable indoor climate
+Heat Pumps,positive,Environmental Sustainability,Lower long-term ecological footprint
+Heat Pumps,positive,Smart Grid Compatibility,Can respond to dynamic electricity pricing
+Heat Pumps,positive,Low Temperature Heating Systems,Supports transition to efficient heating infrastructure
+High Upfront Costs,negative,Heat Pumps,Initial installation cost can be a barrier
+Policy Support and Incentives,positive,Heat Pumps,Subsidies and standards promote adoption
+Public Perception and Awareness,mixed,Heat Pumps,Influences adoption positively or negatively
+Technological Advancements,positive,Heat Pumps,Improve efficiency and usability
+Availability of Skilled Workforce,positive,Heat Pumps,Essential for proper installation and maintenance
+Smart Controls,positive,Heat Pumps,Improve system optimization and energy savings
+Thermal Energy Storage,positive,Heat Pumps,Enhances efficiency and load management
+Building Retrofitting,positive,Heat Pumps,Improves compatibility and effectiveness
+Artificial Intelligence (AI),positive,Heat Pumps,Enables intelligent control and predictive maintenance
+Internet of Things (IoT),positive,Heat Pumps,Connects devices for real-time monitoring and remote control
+Smart Meters,positive,Heat Pumps,Supports dynamic pricing and usage feedback
+5G Connectivity,positive,Heat Pumps,Enhances communication speed for real-time control
+Thermal Energy Storage,positive,Heat Pumps,Improves load management and efficiency
+Building Automation Systems,positive,Heat Pumps,Integrates controls for optimized heating performance
+District Heating,positive,GHG Emissions,Reduces emissions by centralizing and optimizing heat production
+District Heating,positive,Energy Efficiency,Increases efficiency through combined heat and power systems
+District Heating,positive,Fossil Fuel Dependency,Reduces reliance through use of renewables and waste heat
+District Heating,positive,Building Energy Consumption,Decreases individual building heating needs
+District Heating,positive,Environmental Sustainability,Supports decarbonization of heating sector
+District Heating,positive,Renewable Energy Integration,"Facilitates use of biomass, solar thermal, and waste heat"
+District Heating,positive,System Flexibility,Supports integration with heat pumps and storage
+District Heating,positive,Air Quality,Improves urban air quality by phasing out local combustion
+District Heating,positive,EPC Ratings,Improves energy performance of buildings
+District Heating,positive,Infrastructure Optimization,Allows for integrated planning of heating and cooling
+Building Insulation and Thermal Mass,positive,District Heating,Improves system performance and energy savings
+Urban Density,positive,District Heating,Higher density improves economic feasibility
+Policy Support,positive,District Heating,Encourages investment and adoption
+Technology Advancements,positive,District Heating,Improve system integration and control
+Public Perception,mixed,District Heating,Can drive or hinder adoption based on trust
+Climate Conditions,mixed,District Heating,Heating demand and efficiency vary by region
+Availability of Renewable Sources,positive,District Heating,Enhances decarbonization potential
+Energy Storage Systems,positive,District Heating,Improves load balancing and reliability
+Smart Meters,positive,District Heating,Enable better billing and consumption control
+Artificial Intelligence (AI),positive,District Heating,Enables predictive control and optimization of heating distribution
+Internet of Things (IoT),positive,District Heating,Improves monitoring and management of heat networks
+5G Connectivity,positive,District Heating,Supports real-time control and system automation
+Building Automation Systems,positive,District Heating,Coordinates heating based on demand patterns
+Smart Grid Integration,positive,District Heating,Links thermal and electric systems for coordinated energy management
+EV Charging Points,positive,Air Quality,"Enable EV use, reducing vehicle emissions"
+EV Charging Points,positive,Public Health,"Support cleaner mobility, reducing pollution-related illnesses"
+EV Charging Points,positive,GHG Emissions,Facilitate reduction in transport-related emissions
+EV Charging Points,positive,EV Adoption,Essential infrastructure for EV usability and trust
+EV Charging Points,positive,Smart Grid Integration,Can support grid balancing via managed charging
+EV Charging Points,positive,Technology Innovation,Drives advancements in energy and transport sectors
+EV Charging Points,positive,Urban Mobility,Supports zero-emission mobility in cities
+EV Charging Points,positive,Electricity Demand,Increases demand and alters load patterns
+EV Charging Points,negative,Grid Congestion,Can cause stress on local grids if uncoordinated
+EV Charging Points,positive,Smart City Development,"Key part of connected, low-emission urban infrastructure"
+User Needs and Preferences,positive,EV Charging Points,"Determine location, accessibility, and demand"
+Land Availability,positive,EV Charging Points,Necessary for installation of stations
+Energy Supply and Grid Capacity,mixed,EV Charging Points,Enables deployment but may limit scalability
+Government Policy,positive,EV Charging Points,Regulations and incentives drive expansion
+Urban Planning,positive,EV Charging Points,Integration into transport and land-use plans is essential
+Technological Advancements,positive,EV Charging Points,"Improves efficiency, speed, and user experience"
+Public Perception,mixed,EV Charging Points,Affects adoption and usage based on convenience
+Renewable Energy Integration,positive,EV Charging Points,Supports sustainable electricity supply for charging
+Charging Behavior,mixed,EV Charging Points,Influences peak loads and station usage patterns
+Artificial Intelligence (AI),positive,EV Charging Points,Optimizes charging schedules and grid integration
+Internet of Things (IoT),positive,EV Charging Points,Enables smart communication and real-time monitoring
+Smart Meters,positive,EV Charging Points,Support dynamic pricing and energy usage tracking
+5G Connectivity,positive,EV Charging Points,Improves communication for vehicle-to-grid coordination
+Blockchain,positive,EV Charging Points,Secures transactions and usage data
+Vehicle-to-Grid (V2G) Technology,positive,EV Charging Points,Enables EVs to supply energy back to the grid
+Wireless Charging,positive,EV Charging Points,Increases convenience and usage
+Mobile Applications,positive,EV Charging Points,"Improve user access, reservations, and payment"
+Biomass Boilers,positive,GHG Emissions,Reduce emissions when replacing fossil fuel systems
+Biomass Boilers,positive,Fossil Fuel Dependency,Lower reliance on coal and oil for heating
+Biomass Boilers,positive,Energy Costs,Can be more cost-effective than oil-based heating
+Biomass Boilers,positive,District Heating,Improve efficiency when integrated in networks
+Biomass Boilers,positive,Building Energy Consumption,Lower heating energy use in buildings
+Biomass Boilers,positive,Energy Security,"Utilize locally sourced fuel, reducing import dependency"
+Biomass Boilers,positive,Renewable Energy Use,Support the renewable heat transition
+Biomass Boilers,positive,Air Quality,Minimal negative impact when modern systems are used
+Biomass Boilers,positive,Employment,"Create jobs in fuel supply, maintenance, and operation"
+Biomass Boilers,negative,Environmental Impact,Can cause deforestation or emissions if not sustainably managed
+Sustainability of Biomass Sources,positive,Biomass Boilers,Sustainable sourcing enhances environmental benefits
+Public Acceptance,mixed,Biomass Boilers,Influences deployment and adoption rates
+Market Demand,positive,Biomass Boilers,Drives investment and adoption
+Fuel Availability,positive,Biomass Boilers,Accessibility of quality biomass is essential
+Installation and Operating Costs,negative,Biomass Boilers,High costs can be a barrier
+Maintenance Requirements,negative,Biomass Boilers,Frequent maintenance affects feasibility
+Policy and Regulation,positive,Biomass Boilers,Supportive policy drives implementation
+Technology Efficiency,positive,Biomass Boilers,Efficient systems reduce fuel use and emissions
+Energy Storage Integration,positive,Biomass Boilers,Improves performance and reduces peak loads
+Artificial Intelligence (AI),positive,Biomass Boilers,Optimizes combustion and maintenance scheduling
+Internet of Things (IoT),positive,Biomass Boilers,Supports real-time monitoring and fault detection
+Smart Meters,positive,Biomass Boilers,Track consumption and efficiency
+Automation Systems,positive,Biomass Boilers,Streamline operations and increase system reliability
+5G Connectivity,positive,Biomass Boilers,Enables seamless communication in smart systems
+Thermal Energy Storage,positive,Biomass Boilers,Buffers heating loads and enhances system flexibility
+Solar PV,positive,GHG Emissions,Reduces emissions by replacing fossil fuel electricity
+Solar PV,positive,Energy Costs,Reduces electricity bills for buildings and cities
+Solar PV,positive,Energy Efficiency,Improves building-level and grid-wide efficiency
+Solar PV,positive,Renewable Energy Use,Directly increases share of renewables in energy mix
+Solar PV,positive,Energy Security,Diversifies supply and reduces import dependency
+Solar PV,positive,Grid Decentralization,Promotes distributed generation and local energy resilience
+Solar PV,positive,Smart Grid Integration,"Supports flexible, real-time power flows and load balancing"
+Solar PV,positive,Building Energy Autonomy,Enables buildings to generate their own power
+Solar PV,positive,Urban Sustainability,Supports climate goals and clean energy transition
+Solar PV,positive,Air Quality,Reduces pollutant emissions associated with conventional power
+Government Incentives,positive,Solar PV,Feed-in tariffs and tax benefits drive adoption
+Cost of Installation,negative,Solar PV,High upfront cost is a barrier to widespread use
+Public Awareness and Perception,mixed,Solar PV,Can drive or hinder uptake based on trust and knowledge
+Building Orientation and Roof Space,positive,Solar PV,Physical conditions affect feasibility
+Electricity Pricing,mixed,Solar PV,Higher grid prices make solar more attractive
+Regulatory Framework,positive,Solar PV,Clear rules for grid connection and metering help deployment
+Energy Storage Integration,positive,Solar PV,Enables time-shifting of solar generation
+Grid Infrastructure,mixed,Solar PV,May require upgrades to handle variable inputs
+Technology Advancements,positive,Solar PV,"Improve efficiency, durability, and cost-effectiveness"
+Urban Planning and Zoning,positive,Solar PV,"Supports integration into rooftops, facades, and public spaces"
+Artificial Intelligence (AI),positive,Solar PV,Optimizes panel performance and fault prediction
+Internet of Things (IoT),positive,Solar PV,Monitors output and environmental conditions in real-time
+Smart Meters,positive,Solar PV,Enable energy tracking and dynamic pricing models
+5G Connectivity,positive,Solar PV,Improves real-time data transmission for performance monitoring
+Blockchain,positive,Solar PV,Facilitates peer-to-peer energy trading and transaction security
+Energy Management Systems,positive,Solar PV,Coordinate solar production with demand and storage
+Mobile Apps and Interfaces,positive,Solar PV,Empower users to monitor and control generation
+Public Transportation,positive,GHG Emissions,Reduces emissions by replacing individual car trips
+Public Transportation,positive,Air Quality,Less pollution compared to private vehicle use
+Public Transportation,positive,Traffic Congestion,Reduces number of cars on roads
+Public Transportation,positive,Public Health,Increases physical activity and reduces pollution exposure
+Public Transportation,positive,Accessibility,Improves mobility for people without cars
+Public Transportation,positive,Urban Equity,Reduces transportation barriers for low-income populations
+Public Transportation,positive,Energy Efficiency,Efficient energy use per passenger compared to cars
+Public Transportation,positive,Land Use Efficiency,"Enables dense, walkable urban development"
+Public Transportation,positive,Economic Productivity,Reduces travel times and supports workforce mobility
+Public Transportation,positive,Noise Pollution,Modern fleets produce less noise than traditional vehicles
+Funding and Investment,positive,Public Transportation,Enables expansion and modernization
+Policy and Regulation,positive,Public Transportation,Drives prioritization and integration in city planning
+Urban Density,positive,Public Transportation,Supports economically viable routes
+Infrastructure Availability,positive,Public Transportation,"Stations, lanes, and maintenance hubs are essential"
+Public Perception,mixed,Public Transportation,Affects ridership depending on comfort and reliability
+Technological Innovations,positive,Public Transportation,Support efficiency and integration
+Fare Structure,mixed,Public Transportation,Can encourage or discourage use depending on affordability
+Integration with Other Modes,positive,Public Transportation,Boosts convenience and ridership
+Real-time Information Systems,positive,Public Transportation,Improves user experience and decision-making
+Climate Conditions,mixed,Public Transportation,Can affect comfort and infrastructure durability
+Artificial Intelligence (AI),positive,Public Transportation,Enables route optimization and demand prediction
+Internet of Things (IoT),positive,Public Transportation,Monitors fleet performance and crowding
+5G Connectivity,positive,Public Transportation,Enables real-time updates and automated systems
+Mobile Apps,positive,Public Transportation,"Support ticketing, navigation, and rider information"
+Smart Cards and Contactless Payments,positive,Public Transportation,Simplify access and reduce boarding time
+Autonomous Vehicle Technology,positive,Public Transportation,Can power future self-driving shuttles or buses
+Smart Infrastructure,positive,Public Transportation,Enables responsive traffic signals and priority lanes
+Car Sharing,positive,GHG Emissions,Reduces emissions by decreasing private car ownership
+Car Sharing,positive,Air Quality,Less vehicle use leads to lower emissions
+Car Sharing,positive,Traffic Congestion,Fewer cars on the road when shared efficiently
+Car Sharing,positive,Parking Demand,Reduces need for parking spaces in cities
+Car Sharing,positive,Mobility Access,Provides flexible transportation for non-car owners
+Car Sharing,positive,Transportation Costs,Reduces the cost of vehicle ownership
+Car Sharing,positive,Urban Space Efficiency,Frees up land for other uses
+Car Sharing,positive,Energy Efficiency,Lower vehicle usage increases overall efficiency
+Car Sharing,positive,Integration with Public Transport,Complements last-mile connectivity
+Car Sharing,positive,Vehicle Utilization,Maximizes usage per vehicle compared to private cars
+Urban Density,positive,Car Sharing,High density supports frequent use and availability
+Digital Platforms,positive,Car Sharing,"Enable reservations, payments, and fleet tracking"
+Public Awareness and Trust,mixed,Car Sharing,Affects willingness to use shared vehicles
+Regulations and Licensing,positive,Car Sharing,Support safe and consistent operations
+Integration with Other Modes,positive,Car Sharing,Improves convenience and adoption
+Availability of Parking Spaces,mixed,Car Sharing,Supports operations but may compete with other uses
+Cost Competitiveness,positive,Car Sharing,Encourages use over private vehicle ownership
+Fleet Electrification,positive,Car Sharing,Enhances environmental benefits
+User Preferences and Behavior,mixed,Car Sharing,Influences uptake and retention
+Data Privacy and Security,mixed,Car Sharing,Affects user trust and platform adoption
+Artificial Intelligence (AI),positive,Car Sharing,Improves fleet optimization and route prediction
+Internet of Things (IoT),positive,Car Sharing,Monitors vehicle status and user activity
+Mobile Applications,positive,Car Sharing,"Enable easy access, reservation, and billing"
+5G Connectivity,positive,Car Sharing,Supports real-time location and communication
+Smart Cards and Payment Systems,positive,Car Sharing,Simplify user experience and operations
+Autonomous Vehicle Technology,positive,Car Sharing,Can support future driverless shared mobility
+Blockchain,positive,Car Sharing,Secures transactions and enables decentralized systems
+Smart Meters,positive,Energy Efficiency,Enable detailed monitoring and feedback to reduce waste
+Smart Meters,positive,Consumer Awareness,Provides real-time usage data for informed decisions
+Smart Meters,positive,Demand Response,Facilitate flexible energy usage and load shifting
+Smart Meters,positive,Billing Accuracy,Reduce billing errors through precise measurement
+Smart Meters,positive,Grid Stability,Support demand forecasting and load balancing
+Smart Meters,positive,Renewable Energy Use,Help match consumption with variable renewable generation
+Smart Meters,positive,Electric Vehicle Charging,Enable dynamic pricing and smart charging schedules
+Smart Meters,positive,Integration with Smart Grids,Enhance bi-directional communication and control
+Smart Meters,positive,Energy Cost Transparency,Make cost drivers visible to consumers
+Smart Meters,positive,Carbon Emissions Reduction,Support behavioral changes that reduce emissions
+Policy and Regulation,positive,Smart Meters,Mandates and incentives drive deployment
+Consumer Acceptance,mixed,Smart Meters,Trust and perceived value influence adoption
+Upfront Installation Costs,negative,Smart Meters,Cost can deter adoption without subsidies
+Digital Literacy,positive,Smart Meters,Users need to understand and interact with data
+Communication Infrastructure,positive,Smart Meters,Essential for real-time data transfer
+Data Privacy Concerns,negative,Smart Meters,Fear of misuse can limit acceptance
+Integration with Energy Systems,positive,Smart Meters,Compatibility with grids and buildings is key
+Technology Standards,positive,Smart Meters,Standardization improves interoperability
+Utilities Engagement,positive,Smart Meters,Utility support ensures reliable operation
+Education and Awareness Campaigns,positive,Smart Meters,Promote understanding and trust
+Artificial Intelligence (AI),positive,Smart Meters,Enables predictive analytics and usage forecasting
+Internet of Things (IoT),positive,Smart Meters,Connects devices for monitoring and control
+5G Connectivity,positive,Smart Meters,"Ensures fast, reliable data communication"
+Blockchain,positive,Smart Meters,Secures energy transaction and usage records
+Cloud Computing,positive,Smart Meters,Supports large-scale data storage and processing
+Mobile Applications,positive,Smart Meters,Enable user access and control over energy data
+Cycling,positive,GHG Emissions,"Replaces car trips, significantly reducing emissions"
+Cycling,positive,Air Quality,Reduces local air pollution from transportation
+Cycling,positive,Traffic Congestion,Takes pressure off congested roadways
+Cycling,positive,Public Health,Increases physical activity and reduces sedentary lifestyle risks
+Cycling,positive,Noise Pollution,Silent mode of transport improves urban soundscapes
+Cycling,positive,Mobility Access,"Low-cost, flexible option for short-distance travel"
+Cycling,positive,Urban Livability,"Supports cleaner, more active, and human-scale cities"
+Cycling,positive,Land Use Efficiency,Requires less space than car infrastructure
+Cycling,positive,Transportation Equity,Accessible to wide socioeconomic groups
+Cycling,positive,Infrastructure Costs,Lower investment required compared to car-based infrastructure
+Bicycle Infrastructure,positive,Cycling,Safe lanes and facilities boost ridership
+Urban Design,positive,Cycling,"Compact, mixed-use areas promote cycling over driving"
+Traffic Safety,mixed,Cycling,Perceived or real danger can discourage usage
+Weather and Climate,mixed,Cycling,Affects comfort and feasibility
+Public Awareness Campaigns,positive,Cycling,Promote benefits and normalize cycling culture
+Policy and Regulation,positive,Cycling,Bike-friendly policies encourage investment
+Integration with Public Transport,positive,Cycling,Improves last-mile connectivity and modal shift
+Cultural Attitudes,mixed,Cycling,Social acceptance influences ridership
+Bike Sharing Systems,positive,Cycling,Improves accessibility and spontaneity of use
+Funding and Investment,positive,Cycling,Supports expansion and improvement of infrastructure
+Mobile Applications,positive,Cycling,"Assist with navigation, safety alerts, and route planning"
+GPS and Tracking,positive,Cycling,Enable real-time data for usage and planning
+Bike Sharing Technology,positive,Cycling,Improves convenience and data integration
+Internet of Things (IoT),positive,Cycling,Monitors shared bike systems and infrastructure usage
+Smart Traffic Systems,positive,Cycling,Improves safety and flow at intersections
+5G Connectivity,positive,Cycling,Enhances integration with real-time transport systems
+Data Analytics,positive,Cycling,Helps cities plan better infrastructure based on usage patterns
+Green Spaces,positive,Air Quality,Vegetation absorbs pollutants and improves local air conditions
+Green Spaces,positive,Urban Temperature,Reduce heat island effect through shading and evapotranspiration
+Green Spaces,positive,Public Health,Encourages physical activity and reduces stress
+Green Spaces,positive,Stormwater Management,"Absorb rainwater, reducing flooding and runoff"
+Green Spaces,positive,Biodiversity,Provide habitats and ecological corridors for wildlife
+Green Spaces,positive,Noise Pollution,Vegetation can buffer and absorb urban noise
+Green Spaces,positive,Urban Livability,Enhance recreational value and aesthetics
+Green Spaces,positive,Carbon Sequestration,Capture CO₂ from the atmosphere
+Green Spaces,positive,Property Value,Proximity to greenery often increases real estate value
+Green Spaces,positive,Mental Wellbeing,Associated with reduced anxiety and depression symptoms
+Urban Planning and Zoning,positive,Green Spaces,Determines allocation and protection of green areas
+Land Availability,mixed,Green Spaces,Limited land in dense areas can restrict development
+Public Awareness and Support,positive,Green Spaces,Community involvement drives maintenance and expansion
+Climate Conditions,mixed,Green Spaces,"Affects vegetation type, irrigation, and maintenance needs"
+Funding and Maintenance,positive,Green Spaces,Essential for ongoing care and quality
+Policy and Environmental Regulations,positive,Green Spaces,Mandates and incentives promote creation
+Environmental Justice Initiatives,positive,Green Spaces,Help ensure equitable distribution
+Heat Stress Events,positive,Green Spaces,Drive demand for cooling and shade
+Green Infrastructure Programs,positive,Green Spaces,Integrated policies boost implementation
+Accessibility and Design,positive,Green Spaces,Inclusive and well-designed areas increase usage
+Remote Sensing and GIS,positive,Green Spaces,Monitor vegetation health and spatial distribution
+Smart Irrigation Systems,positive,Green Spaces,Improve water use efficiency
+Environmental Sensors,positive,Green Spaces,"Track air quality, temperature, and soil moisture"
+Data Analytics,positive,Green Spaces,Support planning and performance evaluation
+Mobile Apps,positive,Green Spaces,Engage communities in stewardship and feedback
+Drone Technology,positive,Green Spaces,Assist with monitoring and maintenance
+5G Connectivity,positive,Green Spaces,Supports real-time sensor networks for urban ecology
+Multipurpose Buildings,positive,Land Use Efficiency,"Combine residential, commercial, and public uses, optimizing space"
+Multipurpose Buildings,positive,Energy Efficiency,Shared systems and resources reduce overall energy use
+Multipurpose Buildings,positive,Urban Density,"Support compact, walkable communities"
+Multipurpose Buildings,positive,Mobility Patterns,Reduce travel needs by co-locating functions
+Multipurpose Buildings,positive,Social Interaction,Encourage community engagement and mixed-use interaction
+Multipurpose Buildings,positive,Infrastructure Efficiency,Lower per-capita costs for utilities and services
+Multipurpose Buildings,positive,Resilience,Flexible spaces support adaptive reuse during crises
+Multipurpose Buildings,positive,Building Performance,Integrated systems can enhance performance and monitoring
+Multipurpose Buildings,positive,Accessibility,Provide centralized access to key services
+Multipurpose Buildings,positive,Sustainability,"Promote holistic, low-impact urban design"
+Urban Planning and Zoning,positive,Multipurpose Buildings,Regulations determine allowable uses and density
+Construction Costs,negative,Multipurpose Buildings,Integrated systems can raise upfront costs
+Architectural Design,positive,Multipurpose Buildings,Good design enables functionality and flexibility
+Energy Codes and Standards,positive,Multipurpose Buildings,Encourage high-performance buildings
+Building Technologies,positive,Multipurpose Buildings,Enable efficient multi-use integration
+Policy Incentives,positive,Multipurpose Buildings,Tax benefits and subsidies encourage development
+Public Perception,mixed,Multipurpose Buildings,Affects acceptance based on aesthetics or convenience
+Land Value,mixed,Multipurpose Buildings,Can influence financial viability
+Climate Considerations,mixed,Multipurpose Buildings,Impact design and system requirements
+Operational Complexity,negative,Multipurpose Buildings,More functions increase management demands
+Building Management Systems (BMS),positive,Multipurpose Buildings,Enable efficient control of multi-use operations
+Artificial Intelligence (AI),positive,Multipurpose Buildings,"Optimizes energy use, maintenance, and occupancy patterns"
+Internet of Things (IoT),positive,Multipurpose Buildings,Connects systems for monitoring and control
+Smart Meters,positive,Multipurpose Buildings,Track consumption by area or function
+Energy Management Systems,positive,Multipurpose Buildings,Integrate renewable and load management across uses
+5G Connectivity,positive,Multipurpose Buildings,Supports responsive building systems and tenant services
+Digital Twins,positive,Multipurpose Buildings,"Allow virtual modeling for planning, maintenance, and adaptation"
+Renewable Energy Generation,positive,GHG Emissions,Replaces fossil fuel sources and significantly cuts emissions
+Renewable Energy Generation,positive,Energy Security,Diversifies supply and reduces dependence on imported fuels
+Renewable Energy Generation,positive,Air Quality,Reduces air pollution from combustion-based energy sources
+Renewable Energy Generation,positive,Energy Costs,Can reduce long-term electricity prices
+Renewable Energy Generation,positive,Smart Grid Integration,"Enables decentralized, dynamic energy flows"
+Renewable Energy Generation,positive,Building Energy Autonomy,Supports on-site energy generation
+Renewable Energy Generation,positive,Public Health,Improves health outcomes through cleaner air
+Renewable Energy Generation,positive,Carbon Sequestration,Indirectly supports land-based carbon sinks when paired with green infrastructure
+Renewable Energy Generation,positive,Resilience,Improves ability to recover from energy supply disruptions
+Renewable Energy Generation,positive,Sustainability,Supports long-term ecological balance and policy goals
+Government Incentives and Subsidies,positive,Renewable Energy Generation,Financial support promotes deployment
+Grid Infrastructure,mixed,Renewable Energy Generation,May require upgrades to support variable inputs
+Energy Storage Systems,positive,Renewable Energy Generation,Enables time-shifting and reliability
+Technology Advancements,positive,Renewable Energy Generation,Improve efficiency and reduce costs
+Public Perception and Awareness,mixed,Renewable Energy Generation,Support depends on understanding and attitudes
+Land Availability and Use,mixed,Renewable Energy Generation,Large-scale systems may require significant space
+Climate and Weather Variability,mixed,Renewable Energy Generation,Affects generation potential and reliability
+Policy and Regulation,positive,Renewable Energy Generation,Mandates and frameworks facilitate adoption
+Market Conditions,mixed,Renewable Energy Generation,Electricity pricing and competition influence investment
+Interconnection Standards,positive,Renewable Energy Generation,Enable grid access and safety compliance
+Artificial Intelligence (AI),positive,Renewable Energy Generation,"Enables forecasting, optimization, and predictive maintenance"
+Internet of Things (IoT),positive,Renewable Energy Generation,Supports real-time monitoring and smart control
+5G Connectivity,positive,Renewable Energy Generation,Enhances data flow for system control and communication
+Smart Meters,positive,Renewable Energy Generation,Help track production and align with demand
+Blockchain,positive,Renewable Energy Generation,Enables secure peer-to-peer energy trading
+Cloud Computing,positive,Renewable Energy Generation,Manages large-scale data from distributed systems
+Energy Management Systems,positive,Renewable Energy Generation,"Coordinate generation, storage, and consumption efficiently"
+Energy Management Systems,positive,Energy Efficiency,Optimize energy use across systems and devices
+Energy Management Systems,positive,GHG Emissions,Reduce emissions by improving efficiency and integrating renewables
+Energy Management Systems,positive,Operational Costs,Lower energy bills through smarter energy control
+Energy Management Systems,positive,Grid Flexibility,Enable demand response and dynamic load control
+Energy Management Systems,positive,Renewable Energy Integration,Balance and manage variable generation sources
+Energy Management Systems,positive,Smart Grid Performance,"Enhance coordination between generation, storage, and loads"
+Energy Management Systems,positive,Building Performance,Improve comfort and efficiency in residential/commercial buildings
+Energy Management Systems,positive,System Resilience,Improve response to outages and peak demand
+Energy Management Systems,positive,Data-Driven Decision Making,Support analytics for better planning and policy
+Energy Management Systems,positive,User Engagement,Provide feedback and control interfaces for users
+Digital Infrastructure,positive,Energy Management Systems,Enables real-time monitoring and control
+Policy and Incentives,positive,Energy Management Systems,Regulations and support programs drive adoption
+Energy Prices,mixed,Energy Management Systems,Fluctuating prices affect financial benefits
+System Complexity,negative,Energy Management Systems,Integration across technologies can be challenging
+Interoperability Standards,positive,Energy Management Systems,Enable smooth integration of devices and systems
+Consumer Awareness,mixed,Energy Management Systems,Knowledge and trust affect engagement
+Upfront Investment,negative,Energy Management Systems,Initial costs may deter deployment
+Skilled Workforce,positive,Energy Management Systems,Required for implementation and maintenance
+Scalability of Solutions,positive,Energy Management Systems,"Adaptability across buildings, districts, or cities"
+Cybersecurity Measures,positive,Energy Management Systems,Protect data and system functionality
+Artificial Intelligence (AI),positive,Energy Management Systems,Optimizes performance through prediction and automation
+Internet of Things (IoT),positive,Energy Management Systems,Connects devices for monitoring and control
+Smart Meters,positive,Energy Management Systems,Enable detailed tracking and demand response
+Cloud Computing,positive,Energy Management Systems,Supports large-scale data analysis and system coordination
+5G Connectivity,positive,Energy Management Systems,Enhances speed and reliability of control systems
+Digital Twins,positive,Energy Management Systems,Enable simulation and optimization of energy environments
+Blockchain,positive,Energy Management Systems,Securely manage data and energy transactions
+Electrification of Public Transport,positive,GHG Emissions,Reduces carbon emissions by replacing fossil-fuel vehicles
+Electrification of Public Transport,positive,Air Quality,Improves urban air quality by reducing tailpipe emissions
+Electrification of Public Transport,positive,Noise Pollution,Electric vehicles generate less noise than diesel buses
+Electrification of Public Transport,positive,Public Health,Cleaner air and quieter streets benefit overall health
+Electrification of Public Transport,positive,Energy Efficiency,Electric motors are more efficient than combustion engines
+Electrification of Public Transport,positive,Urban Livability,"Creates quieter, cleaner, and more appealing public spaces"
+Electrification of Public Transport,positive,Mobility Access,Enhances service appeal and potential ridership
+Electrification of Public Transport,positive,Sustainability,Supports climate goals and low-carbon transition
+Electrification of Public Transport,positive,Integration with Smart Grid,Enables demand response and grid balancing through fleet charging
+Electrification of Public Transport,positive,Operational Costs,Lower fuel and maintenance costs over vehicle life cycle
+Charging Infrastructure,positive,Electrification of Public Transport,Reliable charging is critical for daily operations
+Electric Grid Capacity,mixed,Electrification of Public Transport,Sufficient supply and management needed for fleet charging
+Policy Support,positive,Electrification of Public Transport,Incentives and mandates accelerate adoption
+Fleet Investment Costs,negative,Electrification of Public Transport,High upfront cost can be a barrier
+Public Perception,mixed,Electrification of Public Transport,Acceptance depends on service quality and awareness
+Technology Maturity,positive,Electrification of Public Transport,"Improved vehicle range, reliability, and cost"
+Urban Planning and Zoning,positive,Electrification of Public Transport,Infrastructure and depot location affect feasibility
+Integration with Transit Systems,positive,Electrification of Public Transport,Boosts multimodal connectivity and convenience
+Climate Conditions,mixed,Electrification of Public Transport,Extreme weather affects battery performance
+Training and Workforce Development,positive,Electrification of Public Transport,Required for safe and efficient operation and maintenance
+Artificial Intelligence (AI),positive,Electrification of Public Transport,"Optimizes routes, charging schedules, and fleet management"
+Internet of Things (IoT),positive,Electrification of Public Transport,Enables real-time vehicle monitoring and diagnostics
+Smart Meters,positive,Electrification of Public Transport,Track energy use and support demand-side management
+5G Connectivity,positive,Electrification of Public Transport,Supports real-time control and fleet coordination
+Battery Management Systems,positive,Electrification of Public Transport,"Improve safety, performance, and lifespan"
+Energy Management Systems,positive,Electrification of Public Transport,Coordinate charging with grid conditions
+Vehicle-to-Grid (V2G) Technology,positive,Electrification of Public Transport,Allows energy feedback to the grid during idle periods
+Clean Air Zones,positive,Air Quality,Reduce vehicle emissions by restricting high-emission vehicles
+Clean Air Zones,positive,GHG Emissions,"Encourage cleaner vehicles, leading to lower carbon emissions"
+Clean Air Zones,positive,Public Health,Improve respiratory and cardiovascular health by reducing pollution exposure
+Clean Air Zones,positive,Noise Pollution,"Indirectly reduce noise by encouraging cleaner, quieter vehicles"
+Clean Air Zones,positive,Modal Shift,"Promote the use of public transport, cycling, and walking"
+Clean Air Zones,positive,Urban Livability,"Create cleaner, more attractive urban environments"
+Clean Air Zones,positive,Vehicle Fleet Modernization,Encourage transition to low-emission and electric vehicles
+Clean Air Zones,positive,Compliance with Air Quality Standards,Support achievement of legal pollution limits
+Clean Air Zones,positive,Transport Behavior Change,Influence mode and route choices through pricing and access
+Clean Air Zones,positive,Data-Driven Policy Enforcement,Enable targeted enforcement through monitoring systems
+Vehicle Emissions Data,positive,Clean Air Zones,Required to enforce zone entry rules
+Public Acceptance,mixed,Clean Air Zones,Essential for political and practical success
+Legal and Policy Framework,positive,Clean Air Zones,National and municipal laws enable implementation
+Technology for Enforcement,positive,Clean Air Zones,Automatic Number Plate Recognition (ANPR) used for monitoring
+Availability of Clean Vehicles,positive,Clean Air Zones,Influences compliance rates and fairness
+Public Communication Campaigns,positive,Clean Air Zones,Raise awareness and improve compliance
+Socioeconomic Equity Considerations,mixed,Clean Air Zones,Impacts vary across income groups and locations
+Urban Transport Alternatives,positive,Clean Air Zones,Availability of alternatives affects modal shift success
+Infrastructure Readiness,positive,Clean Air Zones,"Signage, monitoring systems, and route planning tools are necessary"
+Enforcement Capacity,positive,Clean Air Zones,Sufficient technical and human resources ensure compliance
+Automatic Number Plate Recognition (ANPR),positive,Clean Air Zones,Used for enforcement of access restrictions
+Air Quality Monitoring Sensors,positive,Clean Air Zones,Track pollution levels to evaluate effectiveness
+Geofencing,positive,Clean Air Zones,Supports digital enforcement and boundary control
+Real-Time Traffic Management Systems,positive,Clean Air Zones,Help optimize traffic flow and compliance
+Public Information Platforms,positive,Clean Air Zones,"Provide details on zone boundaries, rules, and exemptions"
+Data Analytics,positive,Clean Air Zones,"Supports planning, impact assessment, and policy adjustments"
+Solar Thermals,positive,GHG Emissions,Reduce carbon emissions by replacing fossil-fuel-based heating
+Solar Thermals,positive,Energy Efficiency,Convert sunlight directly into thermal energy for water and space heating
+Solar Thermals,positive,Renewable Energy Use,Increase share of renewable sources in thermal energy supply
+Solar Thermals,positive,Energy Costs,Lower energy bills over time through free solar input
+Solar Thermals,positive,Building Sustainability,Support energy autonomy and reduce building carbon footprint
+Solar Thermals,positive,District Heating Integration,Can feed into local or centralized heating networks
+Solar Thermals,positive,Energy Security,Diversify heat supply with a domestic renewable source
+Solar Thermals,positive,Urban Climate Resilience,Reduce pressure on energy grids during peak heating demand
+Solar Thermals,positive,Hot Water Supply Reliability,Increase availability of hot water in low-energy buildings
+Solar Thermals,positive,Infrastructure Decentralization,Enable localized energy production and consumption
+Solar Radiation Availability,positive,Solar Thermals,Determines system effectiveness and output
+Roof Space and Orientation,positive,Solar Thermals,Influences installation feasibility and efficiency
+Building Integration Capacity,positive,Solar Thermals,"Depends on plumbing, layout, and thermal system design"
+Policy Incentives,positive,Solar Thermals,"Subsidies, grants, and mandates encourage adoption"
+Upfront Investment Costs,negative,Solar Thermals,High initial costs can deter adoption
+Maintenance Requirements,negative,Solar Thermals,Regular upkeep is needed to ensure long-term performance
+Public Awareness,mixed,Solar Thermals,Adoption influenced by understanding of technology benefits
+Installer Availability,positive,Solar Thermals,Skilled workforce is key for deployment
+Thermal Energy Storage,positive,Solar Thermals,Enhances flexibility and efficiency of solar thermal systems
+Smart Meters,positive,Solar Thermals,Enable performance monitoring and integration with demand-based control
+Building Management Systems (BMS),positive,Solar Thermals,Optimize use of solar-heated water and coordinate with other systems
+Monitoring Sensors,positive,Solar Thermals,"Track temperatures, flow rates, and solar input for diagnostics"
+Energy Management Systems,positive,Solar Thermals,Coordinate with other building or district energy systems
+HVAC Electrification,positive,GHG Emissions,Reduces emissions by replacing fossil-fuel-based heating and cooling
+HVAC Electrification,positive,Energy Efficiency,Modern electric systems are more efficient than legacy ones
+HVAC Electrification,positive,Indoor Air Quality,Eliminates combustion-based systems that emit pollutants
+HVAC Electrification,positive,Building Energy Performance,Improves building-level energy metrics and ratings
+HVAC Electrification,positive,Renewable Energy Integration,Electric systems can be powered by solar or wind
+HVAC Electrification,positive,Carbon Neutrality Targets,Supports building and city decarbonization goals
+HVAC Electrification,positive,Noise Pollution Reduction,Electric systems are generally quieter than fuel-based systems
+HVAC Electrification,positive,Smart Grid Compatibility,Can participate in demand-side management strategies
+HVAC Electrification,positive,Resilience to Fuel Price Volatility,Reduces exposure to fossil fuel price fluctuations
+HVAC Electrification,positive,Health and Safety,Removes combustion and improves indoor safety conditions
+Building Envelope Efficiency,positive,HVAC Electrification,Efficient insulation and airtightness reduce HVAC loads
+Upfront Installation Costs,negative,HVAC Electrification,High initial investment is a key barrier
+Incentive Programs,positive,HVAC Electrification,Subsidies and rebates support adoption
+Grid Capacity,mixed,HVAC Electrification,More load on the grid requires careful planning
+Technological Maturity,positive,HVAC Electrification,Advanced heat pumps and VRF systems enable effective operation
+Workforce Training,positive,HVAC Electrification,Skilled labor is needed for modern system installation
+Building Use Type,mixed,HVAC Electrification,"Feasibility varies by residential, commercial, or industrial context"
+Climate Conditions,mixed,HVAC Electrification,Performance varies in extreme cold or hot regions
+Policy and Regulation,positive,HVAC Electrification,Energy codes and decarbonization goals drive adoption
+Maintenance Considerations,positive,HVAC Electrification,Electric systems generally require less maintenance than fossil-fuel ones
+Smart Thermostats,positive,HVAC Electrification,Enable optimized scheduling and zone-based control
+Building Management Systems (BMS),positive,HVAC Electrification,Coordinate HVAC with lighting and occupancy sensors
+Energy Management Systems,positive,HVAC Electrification,Optimize energy use and support demand response
+Smart Meters,positive,HVAC Electrification,Provide data for performance tracking and peak demand management
+IoT Sensors,positive,HVAC Electrification,"Enable responsive temperature, humidity, and occupancy-based control"
+Cloud-Based Analytics,positive,HVAC Electrification,Provide performance insights and predictive maintenance alerts
+Bike Sharing Systems,positive,GHG Emissions,"Encourage cycling over motorized travel, reducing emissions"
+Bike Sharing Systems,positive,Air Quality,Reduce traffic-related air pollution
+Bike Sharing Systems,positive,Traffic Congestion,"Lower car usage, particularly for short trips"
+Bike Sharing Systems,positive,Public Health,Promote physical activity and reduce sedentary behavior
+Bike Sharing Systems,positive,Transportation Access,Provide flexible mobility for short and last-mile trips
+Bike Sharing Systems,positive,Multimodal Integration,Complement public transport systems and fill service gaps
+Bike Sharing Systems,positive,Urban Livability,"Support vibrant, less car-dependent neighborhoods"
+Bike Sharing Systems,positive,Noise Pollution,"Bicycles produce no noise, improving urban soundscape"
+Bike Sharing Systems,positive,Transport Equity,"Affordable, accessible option for diverse populations"
+Bike Sharing Systems,positive,Smart Mobility,"Enhance connected, data-driven transport ecosystems"
+Urban Density,positive,Bike Sharing Systems,Supports demand and economic viability
+Bike Infrastructure Quality,positive,Bike Sharing Systems,Safe lanes and parking areas encourage use
+Public Awareness and Promotion,positive,Bike Sharing Systems,Critical for adoption and behavior change
+Climate and Weather,mixed,Bike Sharing Systems,Affects usage patterns and system planning
+Maintenance and Operations,positive,Bike Sharing Systems,Regular upkeep ensures reliability and safety
+Funding and Business Models,positive,Bike Sharing Systems,"Affects pricing, availability, and coverage"
+Integration with Public Transport,positive,Bike Sharing Systems,Enables last-mile solutions and flexible trips
+User Preferences and Behavior,mixed,Bike Sharing Systems,Impacts adoption and system design
+Vandalism and Theft Rates,negative,Bike Sharing Systems,Affect operational costs and system integrity
+Regulatory Framework,positive,Bike Sharing Systems,"Sets guidelines for operation, safety, and public space use"
+Mobile Applications,positive,Bike Sharing Systems,"Enable reservations, tracking, and payments"
+GPS and Geofencing,positive,Bike Sharing Systems,Track bike location and define service areas
+Smart Locks,positive,Bike Sharing Systems,Improve security and enable flexible parking
+Internet of Things (IoT),positive,Bike Sharing Systems,"Monitor fleet usage, condition, and performance"
+Real-Time Data Platforms,positive,Bike Sharing Systems,"Support planning, maintenance, and optimization"
+5G Connectivity,positive,Bike Sharing Systems,"Enables faster, more reliable communication across fleets"
+Smart Traffic Management Systems,positive,Traffic Congestion,Optimize traffic flows and reduce bottlenecks
+Smart Traffic Management Systems,positive,GHG Emissions,Reduce idling and stop-start driving patterns
+Smart Traffic Management Systems,positive,Air Quality,Reduce pollution from smoother vehicle movement
+Smart Traffic Management Systems,positive,Public Transport Efficiency,Provide signal priority and improve travel times
+Smart Traffic Management Systems,positive,Road Safety,Enable real-time hazard detection and prevention
+Smart Traffic Management Systems,positive,Emergency Response Time,Allow dynamic routing and signal overrides
+Smart Traffic Management Systems,positive,Noise Pollution,Reduce engine and braking noise via smoother flows
+Smart Traffic Management Systems,positive,Urban Livability,Reduce traffic-related stress and travel delays
+Smart Traffic Management Systems,positive,Data-Driven Planning,Provide analytics for long-term transport planning
+Smart Traffic Management Systems,positive,Multimodal Integration,"Coordinate traffic across private, public, and non-motorized modes"
+Sensor Infrastructure,positive,Smart Traffic Management Systems,Critical for collecting real-time traffic data
+Digital Connectivity,positive,Smart Traffic Management Systems,Ensures seamless data flow and control
+Traffic Volume and Patterns,mixed,Smart Traffic Management Systems,Influences complexity and design needs
+Government Investment,positive,Smart Traffic Management Systems,"Enables installation, upgrades, and maintenance"
+Policy and Regulation,positive,Smart Traffic Management Systems,Mandates integration with wider transport strategies
+Public Acceptance,mixed,Smart Traffic Management Systems,Dependent on perceived benefits and data concerns
+Interoperability with Existing Systems,positive,Smart Traffic Management Systems,Ensures compatibility with legacy infrastructure
+Cybersecurity Measures,positive,Smart Traffic Management Systems,Protect against manipulation and data breaches
+Data Privacy Standards,mixed,Smart Traffic Management Systems,"Affects data usage, sharing, and compliance"
+Urban Design and Road Network,mixed,Smart Traffic Management Systems,Physical layout influences system effectiveness
+Artificial Intelligence (AI),positive,Smart Traffic Management Systems,Enables predictive modeling and adaptive signaling
+Internet of Things (IoT),positive,Smart Traffic Management Systems,"Connects sensors, vehicles, and signals for real-time coordination"
+5G Connectivity,positive,Smart Traffic Management Systems,Supports low-latency communication between system components
+Computer Vision,positive,Smart Traffic Management Systems,Used in cameras for traffic detection and behavior analysis
+Edge Computing,positive,Smart Traffic Management Systems,Processes data locally for real-time decisions
+Cloud Platforms,positive,Smart Traffic Management Systems,"Support data storage, visualization, and analytics"
+Digital Twins,positive,Smart Traffic Management Systems,Simulate urban traffic conditions for planning and testing
+Building Retrofitting,positive,Energy Efficiency,"Improves insulation, systems, and energy performance"
+Building Retrofitting,positive,GHG Emissions,"Reduces energy demand, cutting carbon emissions"
+Building Retrofitting,positive,Indoor Comfort,Enhances thermal comfort and air quality
+Building Retrofitting,positive,Energy Costs,"Lowers operational costs for heating, cooling, and lighting"
+Building Retrofitting,positive,Building Value,Improves market value and energy performance ratings
+Building Retrofitting,positive,Public Health,"Improves air quality, reduces mold and exposure to cold"
+Building Retrofitting,positive,Grid Load Management,Reduces peak demand by improving building performance
+Building Retrofitting,positive,Resilience,Improves ability to maintain comfort during energy supply interruptions
+Building Retrofitting,positive,Job Creation,Creates local employment in construction and energy services
+Building Retrofitting,positive,Sustainability,"Supports low-carbon, resource-efficient buildings"
+Policy and Regulation,positive,Building Retrofitting,Mandates and incentives drive action
+Building Age and Condition,mixed,Building Retrofitting,Older buildings offer higher savings but may be more complex to retrofit
+Construction Costs,negative,Building Retrofitting,High costs can deter investment
+Financing Mechanisms,positive,Building Retrofitting,Loans and subsidies make retrofits more affordable
+Owner Awareness and Motivation,mixed,Building Retrofitting,Drives or hinders adoption depending on priorities
+Skilled Labor Availability,positive,Building Retrofitting,Essential for quality retrofitting work
+Building Use Type,mixed,Building Retrofitting,"Residential, commercial, or public buildings have different requirements"
+Material Availability,positive,Building Retrofitting,Access to efficient materials speeds up projects
+Energy Prices,mixed,Building Retrofitting,Higher prices can increase interest in savings
+Urban Density,mixed,Building Retrofitting,May affect logistics and project costs
+Building Information Modeling (BIM),positive,Building Retrofitting,Improves planning and precision of retrofit activities
+Thermal Imaging,positive,Building Retrofitting,Detects heat loss and prioritizes interventions
+Smart Meters,positive,Building Retrofitting,Help track energy savings and performance
+Building Management Systems (BMS),positive,Building Retrofitting,Coordinate energy systems for efficient operation
+IoT Sensors,positive,Building Retrofitting,"Provide real-time data on occupancy, temperature, and system performance"
+Prefabrication Technologies,positive,Building Retrofitting,Reduce onsite time and cost for façade or insulation systems
+Green Roofs and Walls,positive,Urban Temperature,Reduce urban heat island effect through natural cooling
+Green Roofs and Walls,positive,Stormwater Management,Absorb rainwater and reduce runoff
+Green Roofs and Walls,positive,Air Quality,Filter pollutants and dust from the air
+Green Roofs and Walls,positive,GHG Emissions,Reduce building energy use for cooling and heating
+Green Roofs and Walls,positive,Biodiversity,Provide habitats for urban wildlife
+Green Roofs and Walls,positive,Building Insulation,Improve thermal performance and energy efficiency
+Green Roofs and Walls,positive,Noise Pollution,Buffer and absorb sound in dense urban areas
+Green Roofs and Walls,positive,Mental Wellbeing,"Increase visual connection to nature, reduce stress"
+Green Roofs and Walls,positive,Urban Livability,Enhance aesthetics and microclimates in the city
+Green Roofs and Walls,positive,Property Value,Can increase attractiveness and resale value of buildings
+Structural Load Capacity,mixed,Green Roofs and Walls,Building must support added weight of soil and water
+Installation Costs,negative,Green Roofs and Walls,Higher upfront cost than traditional roofing
+Maintenance Requirements,negative,Green Roofs and Walls,Ongoing care needed for vegetation health
+Climate and Weather,mixed,Green Roofs and Walls,Affects plant selection and irrigation needs
+Policy and Regulation,positive,Green Roofs and Walls,Mandates or incentives drive implementation
+Public Awareness,positive,Green Roofs and Walls,Influences support and adoption by developers
+Green Infrastructure Programs,positive,Green Roofs and Walls,Funding and integration with broader initiatives
+Building Design and Orientation,mixed,Green Roofs and Walls,"Shading, slope, and access impact feasibility"
+Water Supply and Drainage,mixed,Green Roofs and Walls,Essential for irrigation and excess water removal
+Availability of Skilled Workforce,positive,Green Roofs and Walls,Specialized labor ensures proper installation and care
+Smart Irrigation Systems,positive,Green Roofs and Walls,Ensure efficient water use based on need
+Remote Sensing,positive,Green Roofs and Walls,Monitor vegetation health and system performance
+Environmental Sensors,positive,Green Roofs and Walls,"Track humidity, temperature, and moisture"
+Green Roof Mapping Platforms,positive,Green Roofs and Walls,Identify suitable buildings and track adoption
+Modular Green Roof Systems,positive,Green Roofs and Walls,Standardized systems simplify installation and scaling
+Mobility as a Service (MaaS),positive,Multimodal Integration,Combines different transport modes into a unified platform
+Mobility as a Service (MaaS),positive,Transportation Access,Provides convenient mobility options without private vehicle ownership
+Mobility as a Service (MaaS),positive,Traffic Congestion,Reduces vehicle use through efficient mode selection
+Mobility as a Service (MaaS),positive,GHG Emissions,Encourages shared and lower-emission transport options
+Mobility as a Service (MaaS),positive,Transport Affordability,Reduces travel costs through bundled and optimized services
+Mobility as a Service (MaaS),positive,Urban Livability,"Decreases car dependency, freeing up space and reducing pollution"
+Mobility as a Service (MaaS),positive,Public Transport Ridership,Boosts use by increasing convenience and connectivity
+Mobility as a Service (MaaS),positive,User Convenience,"Enables real-time planning, booking, and payment in one place"
+Mobility as a Service (MaaS),positive,Transport System Efficiency,Distributes demand across different services and times
+Mobility as a Service (MaaS),positive,Digital Inclusion,Provides access to real-time information and mobility for all users
+Data Sharing Agreements,positive,Mobility as a Service (MaaS),Enable integration of different transport providers
+Digital Infrastructure,positive,Mobility as a Service (MaaS),High-quality connectivity enables seamless service use
+Transport Network Coverage,positive,Mobility as a Service (MaaS),Wider modal coverage improves platform usefulness
+User Trust and Data Privacy,mixed,Mobility as a Service (MaaS),Affects adoption depending on security and transparency
+Interoperability Standards,positive,Mobility as a Service (MaaS),Facilitate integration across operators and cities
+Public and Private Collaboration,positive,Mobility as a Service (MaaS),"Enables unified, effective service provision"
+Policy and Regulation,positive,Mobility as a Service (MaaS),Establish rules and frameworks for operation
+User Digital Literacy,mixed,Mobility as a Service (MaaS),Essential for navigating digital platforms
+Fare System Integration,positive,Mobility as a Service (MaaS),Simplifies payment and improves user experience
+Smartphone Penetration,positive,Mobility as a Service (MaaS),Supports widespread user engagement with mobile-based platforms
+Mobile Applications,positive,Mobility as a Service (MaaS),"Enable journey planning, booking, and real-time updates"
+GPS and Geolocation Services,positive,Mobility as a Service (MaaS),Support routing and service matching
+Payment Integration Platforms,positive,Mobility as a Service (MaaS),Allow unified fare handling across services
+Data Analytics,positive,Mobility as a Service (MaaS),Enable optimization of services based on demand patterns
+5G Connectivity,positive,Mobility as a Service (MaaS),Facilitates fast and reliable service updates and communication
+User Experience (UX) Design Tools,positive,Mobility as a Service (MaaS),Ensure accessibility and ease of use
+Cloud Infrastructure,positive,Mobility as a Service (MaaS),Supports scalable service integration and data processing
+Autonomous Vehicles,positive,Traffic Efficiency,Can reduce stop-and-go behavior and improve flow
+Autonomous Vehicles,positive,Road Safety,"Reduce human error, a major cause of accidents"
+Autonomous Vehicles,positive,GHG Emissions,Can reduce emissions if electric and optimized for efficiency
+Autonomous Vehicles,positive,Mobility Access,Improve transportation access for elderly or disabled individuals
+Autonomous Vehicles,positive,Public Transport Integration,Support first/last-mile solutions and shuttle services
+Autonomous Vehicles,positive,Parking Demand,Reduce need for parking near destinations
+Autonomous Vehicles,positive,Land Use Flexibility,Free up urban space previously used for parking
+Autonomous Vehicles,positive,Logistics and Delivery,Improve efficiency and cost-effectiveness of goods movement
+Autonomous Vehicles,positive,Transport System Resilience,Enable flexible routing and self-managed operations
+Autonomous Vehicles,positive,Urban Innovation Ecosystem,"Stimulate development in AI, robotics, and data services"
+AI and Machine Learning,positive,Autonomous Vehicles,"Core technologies for perception, decision-making, and control"
+Sensor and Camera Technology,positive,Autonomous Vehicles,Enable environment detection and situational awareness
+5G and Edge Connectivity,positive,Autonomous Vehicles,Allow low-latency communication for real-time decision-making
+Policy and Regulation,mixed,Autonomous Vehicles,Determine deployment speed and usage models
+Public Trust and Perception,mixed,Autonomous Vehicles,Critical for acceptance and adoption
+Urban Infrastructure Readiness,positive,Autonomous Vehicles,"Smart intersections, road markings, and V2X systems are required"
+Cybersecurity Systems,positive,Autonomous Vehicles,Protect data and prevent unauthorized control
+Testing and Validation Frameworks,positive,Autonomous Vehicles,Ensure safety and performance before mass rollout
+Vehicle Electrification,positive,Autonomous Vehicles,Combines sustainability with automation
+Insurance and Liability Models,mixed,Autonomous Vehicles,Influence deployment due to legal complexities
+LiDAR and Radar Systems,positive,Autonomous Vehicles,Provide depth and range detection for object tracking
+High-Definition Mapping,positive,Autonomous Vehicles,Enable precise navigation and localization
+Cloud-Based Processing,positive,Autonomous Vehicles,Handle massive data for system learning and coordination
+Vehicle-to-Infrastructure (V2I),positive,Autonomous Vehicles,Communicate with traffic signals and road systems
+Vehicle-to-Vehicle (V2V),positive,Autonomous Vehicles,Share real-time location and intent between vehicles
+Simulation Environments,positive,Autonomous Vehicles,Allow safe training and testing of algorithms
+Over-the-Air Updates,positive,Autonomous Vehicles,Keep software up to date with latest improvements and fixes
